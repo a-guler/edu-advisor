@@ -34,9 +34,12 @@ def getMajors():
                 t = "DİL"    
             
             name = text.split("Taban Puanları")[0]
-            name = text.split("4 Yıllık")[0]
-            name = text.split("2024")[0]
-            
+            name = name.split("(4 Yıllık)")[0]
+            name = name.split("4 Yıllık")[0]
+            name = name.split("(2 Yıllık)")[0]
+            name = name.split("2 Yıllık")[0]
+            name = name.split("2024")[0]
+            name = name.strip()
             
             a = major.find("a", href=True)
             if a != None:
