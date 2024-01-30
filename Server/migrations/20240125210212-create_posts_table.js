@@ -18,7 +18,7 @@ module.exports = {
         type: DataTypes.STRING,
       },
       content: {
-        type: DataTypes.STRING,
+        type: DataTypes.TEXT("long"),
       },
       cover: {
         type: DataTypes.STRING,

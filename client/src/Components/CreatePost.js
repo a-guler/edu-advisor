@@ -92,7 +92,7 @@ function CreatePost() {
         }}
       />
       <div className="buttonHolder">
-        <button>Login</button>
+        <button>Create Post</button>
       </div>
     </form>
   );

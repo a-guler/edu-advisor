@@ -7,6 +7,7 @@ import Login from "./Components/Login";
 import Register from "./Components/Register";
 import { UserContextProvider } from "./UserContext";
 import CreatePost from "./Components/CreatePost";
+import PostPage from "./Components/PostPage";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           <Route path="/login" element={<Login />} />
           <Route path="/register" element={<Register />} />
           <Route path="/create" element={<CreatePost />} />
+          <Route path="/post/:id" element={<PostPage />} />
         </Route>
       </Routes>
     </UserContextProvider>
