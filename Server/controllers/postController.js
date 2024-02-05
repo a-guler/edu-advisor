@@ -4,7 +4,7 @@ const multer = require("multer");
 const uploadMiddleware = multer({ dest: "uploads/" });
 const fs = require("fs");
 
-const secret = "sdsaklşdlkas92319041209alksdjka90dasdas9";
+const secret = process.env.SECRET;
 
 const createPost = async (req, res) => {
   const { originalname, path } = req.file;
