@@ -37,7 +37,7 @@ def GetGPTCompletion(prompt, rag):
 def VectorSearch(query):
   Rag_data = ""
   xq = client.embeddings.create(input=query,model="text-embedding-ada-002")
-  res = index.query([xq.data[0].embedding], top_k=2, include_metadata=True)
+  res = index.query(vector=[xq.data[0].embedding], top_k=2, include_metadata=True)
   for match in res['matches']:
       if match['score'] < 0.80:
         continue 
