@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://aguler:$HF_TOKEN@huggingface.co/spaces/aguler/rag-w-openai main
+        run: git push https://aguler:$HF_TOKEN@huggingface.co/spaces/aguler/deneme
