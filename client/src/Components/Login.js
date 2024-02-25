@@ -54,8 +54,11 @@ function Login() {
 
   return (
     <form className="login" onSubmit={login}>
-      <h1>Login</h1>
+      <h1 className="mb-[50px] text-4xl font-bold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl">
+        Login
+      </h1>
       <input
+        className="postInput"
         type="text"
         placeholder="username"
         value={username}
@@ -64,6 +67,7 @@ function Login() {
         }}
       />
       <input
+        className="postInput"
         type="password"
         placeholder="password"
         value={password}

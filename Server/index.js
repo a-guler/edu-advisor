@@ -4,7 +4,7 @@ const cookieParser = require("cookie-parser");
 const { sequelize } = require("./models");
 const authRoutes = require("./routes/authRoutes");
 const postRoutes = require("./routes/postRoutes");
-
+const quizRoutes = require("./routes/quizRoutes");
 const app = express();
 
 // Checking database connection
@@ -36,6 +36,7 @@ app.use("/uploads", express.static(__dirname + "/uploads"));
 // Routes
 app.use(authRoutes);
 app.use(postRoutes);
+app.use(quizRoutes);
 
 // Error handling middleware
 app.use((err, req, res, next) => {

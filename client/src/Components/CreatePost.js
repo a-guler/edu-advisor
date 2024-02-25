@@ -62,6 +62,7 @@ function CreatePost() {
   return (
     <form onSubmit={createNewPost}>
       <input
+        className="postInput"
         type="title"
         placeholder={"Title"}
         value={title}
@@ -70,6 +71,7 @@ function CreatePost() {
         }}
       />
       <input
+        className="postInput"
         type="summary"
         placeholder={"Summary"}
         value={summary}

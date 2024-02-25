@@ -21,8 +21,11 @@ function Register() {
 
   return (
     <form className="register" onSubmit={register}>
-      <h1>Register</h1>
+      <h1 className="mb-[50px] text-4xl font-bold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl">
+        Register
+      </h1>
       <input
+        className="postInput"
         type="text"
         placeholder="username"
         value={username}
@@ -31,6 +34,7 @@ function Register() {
         }}
       />
       <input
+        className="postInput"
         type="password"
         placeholder="password"
         value={password}
