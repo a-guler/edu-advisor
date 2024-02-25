@@ -64,6 +64,7 @@ function CreatePost() {
       <input
         type="title"
         placeholder={"Title"}
+        className="mb-5 w-full h-12 bg-zinc-800 rounded-xl border-black text-white"
         value={title}
         onChange={(event) => {
           setTitle(event.target.value);
@@ -72,6 +73,7 @@ function CreatePost() {
       <input
         type="summary"
         placeholder={"Summary"}
+        className="mb-5 w-full h-12 bg-zinc-800 rounded-xl border-black text-white"
         value={summary}
         onChange={(event) => {
           setSummary(event.target.value);
@@ -79,6 +81,7 @@ function CreatePost() {
       />
       <input
         type="file"
+        className="mb-5 w-full h-12 bg-zinc-800 rounded-xl border-black text-white"
         onChange={(event) => {
           setFile(event.target.files);
         }}
@@ -87,6 +90,7 @@ function CreatePost() {
         value={content}
         modules={modules}
         formats={formats}
+        className="mb-2 text-white"
         onChange={(value) => {
           setContent(value);
         }}

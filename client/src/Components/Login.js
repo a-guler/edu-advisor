@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import { useState } from "react";
-import { api } from "./api";
+// import { api } from "./api";
 import { Navigate } from "react-router-dom";
 import { userContext } from "../UserContext";
 
@@ -54,23 +54,35 @@ function Login() {
 
   return (
     <form className="login" onSubmit={login}>
-      <h1>Login</h1>
-      <input
-        type="text"
-        placeholder="username"
-        value={username}
-        onChange={(e) => {
-          setUsername(e.target.value);
-        }}
-      />
-      <input
-        type="password"
-        placeholder="password"
-        value={password}
-        onChange={(e) => {
-          setPassword(e.target.value);
-        }}
-      />
+      <h1 className="text-white font-bold mb-4">LOGIN</h1>
+      <div className="mt-9">
+        <label htmlFor="username" className="text-white mb-1 text-xs block ml-3">Username</label>
+        <input
+          type="text"
+          name="username"
+          placeholder=""
+          className="mb-5 w-full h-12 bg-zinc-800 rounded-xl border-black text-white"
+          value={username}
+          onChange={(e) => {
+            setUsername(e.target.value);
+          }}
+        />
+      </div>
+      
+      <div>
+        <label htmlFor="password" className="text-white mb-1 text-xs block ml-3">Password</label>
+        <input
+          type="password"
+          name="password"
+          placeholder=""
+          className="mb-5 w-full h-12 bg-zinc-800 rounded-xl border-black text-white"
+          value={password}
+          onChange={(e) => {
+            setPassword(e.target.value);
+         }}
+        />
+      </div>
+      
       <div className="buttonHolder">
         <button>Login</button>
       </div>

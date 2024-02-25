@@ -76,7 +76,7 @@ header nav {
 }
 
 div.post {
-  background-color: #fff;
+  background-color: rgb(39 39 42 / var(--tw-bg-opacity));;
   padding: 10px 20px;
   display: grid;
   grid-template-columns: 1fr;
@@ -109,7 +109,7 @@ div.post p.info {
 div.post,
 p.info,
 .author {
-  color: #333;
+  color: white;
 }
 div.post p.summary {
   margin: 10px 0;
@@ -149,8 +149,8 @@ input {
 }
 .buttonHolder button {
   margin-top: 10px;
-  background-color: #eee;
-  color: #000;
+  background-color: rgb(39 39 42 / var(--tw-bg-opacity));
+  color: #1e9bff;
   text-transform: uppercase;
   font-size: 1rem;
   letter-spacing: 0.1em;
@@ -174,7 +174,7 @@ form.register h1 {
   text-align: center;
 }
 div.post-page {
-  background-color: #fff;
+  background-color: rgb(39 39 42 / var(--tw-bg-opacity));;
   padding: 10px 20px;
   box-shadow: rgba(0, 0, 0, 0.24) 10px 10px 10px;
   border-radius: 5px;
@@ -183,6 +183,7 @@ div.post-page div.image {
   max-height: 200px;
   display: flex;
   overflow: hidden;
+  margin-bottom: 10px;
 }
 div.post-page div.image img {
   object-fit: cover;
@@ -195,23 +196,24 @@ div.post-page a {
 }
 div.post-page h1 {
   text-align: center;
-  margin: 10px 0 10px;
+  margin: 0 0 20px;
 }
 div.post-page time {
-  text-align: center;
-  display: block;
+  text-align: end;
+  display: inline-block;
   font-size: 0.8rem;
-  color: #5e5757;
+  color: white;
+  margin-right: 5px;
 }
 div.post-page div.author {
-  text-align: center;
-  margin-bottom: 10px;
+  display: inline-block;
+  text-align: end;
   font-size: 0.8rem;
   font-weight: bold;
 }
 div.edit-row {
-  text-align: center;
-  margin-bottom: 20px;
+  text-align: end;
+  margin-top: 20px;
 }
 div.post-page a.edit-btn {
   background-color: #333;

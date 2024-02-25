@@ -23,16 +23,21 @@ function PostPage() {
     <div>
       {postInfo && postInfo.User && postInfo.createdAt && (
         <div className="post-page">
-          <h1>{postInfo.title}</h1>
+          <p className="float-right">
+            <time>{formatISO9075(new Date(postInfo.createdAt))}</time>
+            <div href="" className="author">
+              by @{postInfo.User.username}
+            </div>
+          </p>
+          <br className="h-0"></br>
+
+          <h1 className="text-white float-none">{postInfo.title}</h1>
 
           <div className="image">
             <img src={"http://localhost:4000/" + postInfo.cover} alt="" />
           </div>
 
-          <time>{formatISO9075(new Date(postInfo.createdAt))}</time>
-          <div href="" className="author">
-            by @{postInfo.User.username}
-          </div>
+          <div dangerouslySetInnerHTML={{ __html: postInfo.content }}  className="text-white"/>
           {userInfo?.id === postInfo.authorId && (
             <div className="edit-row">
               <Link className="edit-btn" to={`/edit/${postInfo.id}`}>
@@ -54,7 +59,6 @@ function PostPage() {
               </Link>
             </div>
           )}
-          <div dangerouslySetInnerHTML={{ __html: postInfo.content }} />
         </div>
       )}
     </div>

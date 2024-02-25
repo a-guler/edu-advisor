@@ -33,20 +33,20 @@ function Header() {
   const username = userInfo?.username;
   return (
     <header>
-      <Link to="" className="logo">
+      <Link to="" className="logo text-white">
         Edu Advisor
       </Link>
       <nav>
         {username && (
           <>
-            <Link to="/create">Create new post</Link>
-            <a onClick={logout}>Logout</a>
+            <Link to="/create" className="text-white">Create new post</Link>
+            <button onClick={logout} className="text-white">Logout</button>
           </>
         )}
         {!username && (
           <>
-            <Link to="/login">Login</Link>
-            <Link to="/register">Register</Link>
+            <Link to="/login" className="text-white">Login</Link>
+            <Link to="/register" className="text-white">Register</Link>
           </>
         )}
       </nav>

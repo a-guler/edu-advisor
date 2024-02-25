@@ -13,7 +13,7 @@ function Home() {
   }, []);
 
   return (
-    <div>
+    <div className="bg-black">
       {posts &&
         posts
           .sort((a, b) => a.createdAt < b.createdAt)

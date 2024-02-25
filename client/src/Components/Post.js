@@ -2,7 +2,7 @@ import { formatISO9075 } from "date-fns";
 import { Link } from "react-router-dom";
 function Post({ id, title, summary, content, createdAt, cover, User }) {
   return (
-    <div className="post">
+    <div className="post bg-black">
       <div className="image">
         <Link to={`/post/${id}`}>
           <img src={"http://localhost:4000/" + cover} alt="" />
@@ -11,7 +11,7 @@ function Post({ id, title, summary, content, createdAt, cover, User }) {
 
       <div className="content">
         <Link to={`/post/${id}`}>
-          <h2>{title}</h2>
+          <h2 className="text-white">{title}</h2>
         </Link>
         <p className="info">
           <div href="" className="author">

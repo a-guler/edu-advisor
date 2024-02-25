@@ -4,9 +4,9 @@ import { Outlet } from "react-router-dom";
 
 function Layout() {
   return (
-    <main>
+    <main class="h-svh">
       <Header />
-      <Outlet />
+      <Outlet class="bg-black h-full"/>
     </main>
   );
 }
