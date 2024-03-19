@@ -10,6 +10,8 @@ import CreatePost from "./Components/CreatePost";
 import PostPage from "./Components/PostPage";
 import Introduce from "./Pages/Introduce/Introduce";
 import Quiz from "./Pages/Quiz/Quiz";
+import Advisors from "./Components/Advisors";
+import AdvisorChat from "./Components/AdvisorChat";
 function App() {
   return (
     <UserContextProvider>
@@ -22,6 +24,8 @@ function App() {
           <Route path="/post/:id" element={<PostPage />} />
           <Route path="/introduce" element={<Introduce />} />
           <Route path="/quiz" element={<Quiz />} />
+          <Route path="/advisors" element={<Advisors/>} />
+          <Route path="/advisors/:id" element={<AdvisorChat />} />
         </Route>
       </Routes>
     </UserContextProvider>
