@@ -12,6 +12,10 @@ import Introduce from "./Pages/Introduce/Introduce";
 import Quiz from "./Pages/Quiz/Quiz";
 import Advisors from "./Components/Advisors";
 import AdvisorChat from "./Components/AdvisorChat";
+import GraduateStudents from "./Components/GraduateStudents";
+import GraduateStudentChat from "./Components/GraduateStudentChat";
+import SelectGraduateFromSchool from "./Components/SelectGraduateFromSchool";
+
 function App() {
   return (
     <UserContextProvider>
@@ -26,6 +30,9 @@ function App() {
           <Route path="/quiz" element={<Quiz />} />
           <Route path="/advisors" element={<Advisors/>} />
           <Route path="/advisors/:id" element={<AdvisorChat />} />
+          <Route path="/selectGraduates" element={<SelectGraduateFromSchool/>} />
+          <Route path="/graduates/:schoolId" element={<GraduateStudents/>} />
+          <Route path="/graduates/:schoolId/:id" element={<GraduateStudentChat />} />
         </Route>
       </Routes>
     </UserContextProvider>
