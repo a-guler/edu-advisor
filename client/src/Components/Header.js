@@ -39,9 +39,9 @@ function Header() {
       <nav>
         {username && (
           <>
-            <Link to="/advisors">Advisors</Link>
-            <Link to="/create">Create new post</Link>
-            <a onClick={logout}>Logout</a>
+            <Link className="font-bold" to="/advisors">Advisors</Link>
+            <Link className="font-bold" to="/create">Create new post</Link>
+            <a className="font-bold" onClick={logout}>Logout</a>
           </>
         )}
         {!username && (
