@@ -10,5 +10,6 @@ COPY  ./__init__.py /code/__init__.py
 COPY ./credentials.env /code/credentials.env
 COPY ./rag_retriver.py /code/rag_retriver.py
 COPY ./main.py /code/main.py
+COPY ./Major_Recommend /code/Major_Recommend
 
 CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "7860"]
