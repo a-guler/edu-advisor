@@ -60,21 +60,24 @@ def getMajors():
 def getMajUni():
     URLs = []
     results = []
-    with open("Out/Majors.json") as f:
+    with open("Out/Majors.json", encoding='utf-8') as f:
         majors = json.load(f)
     
         for major in majors:
             url = major["href"]
             if url == "UNKNOWN":
                 continue
-            URLs.append(url)
+            URLs.append(major)
         
     with Pool(10) as pool:
         for result in pool.map(readTable, URLs):
-            results.append(result)
+            if result != None:
+                results.append(result)
             
     # for result in results:
-    #     print(result[0]["name"])        
+    #     print(result[0]["name"])    
+        
+            
     with open("Out/allUnisMajors.json","w", encoding='utf-8') as jsonfile:
         json.dump(results,jsonfile,ensure_ascii=False)
     
@@ -86,9 +89,9 @@ def getMajUni():
 
 def readTable(url):
     print(url)
-    results = []  
+    results = {"name":url["name"], "type":url["type"], "l":url["l"], "unis":[]} 
 
-    page = requests.get(url)
+    page = requests.get(url["href"])
     soup = BeautifulSoup(page.content, "html5lib")
     table = soup.find("tbody",id = "basariaratable")
     if(table == None):
@@ -193,13 +196,42 @@ def readTable(url):
         
         # print(f'{p_2023} - {p_2022} - {p_2021} - {p_2020}')
         # print(result)
-        results.append(result)
+        results["unis"].append(result)
     return results  
 
 
+def check():
+    finalJson = []
+    found = 0
+    nonfound = 0
+    with open("Out/Majors.json",encoding='utf-8') as f1:
+        majors = json.load(f1)
+        with open("Out/allUnisMajors.json",encoding='utf-8') as f2:
+            allUnis = json.load(f2)
+            with open("Datas/Tum Universite Iletisim Bilgileri.csv",encoding='utf-8') as f3:
+                yokUnis = json.load(f3)
+
+            
+                for majorlist in allUnis:
+                    for uni in majorlist["unis"]:
+                        print(uni)
+                        isFound = False
+                        for yokUni in yokUnis:
+                            if(uni["name"]["uni"] == yokUni[0]):
+                                found+=1
+                                isFound = True
+                                break
+                        if isFound == False:
+                            nonfound+=1
+
+    print(f'found: {found} nonfound: {nonfound}')                    
+
+
 if __name__=="__main__":
-    freeze_support()
-    getMajUni()
+    # freeze_support()
+    # getMajors()
+    # getMajUni()
+    check()
     
     
     
