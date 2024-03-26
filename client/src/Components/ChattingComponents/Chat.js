@@ -33,7 +33,7 @@ export default function Chat({fullName, image, school}){
             </div>
             
           </div>
-          <Box p={3} style={{maxHeight: "631px", overflowY: "auto", display: "flex", flexDirection: "column-reverse", background: "#bebebe"}}>
+          <Box p={3} style={{maxHeight: "631px", minHeight: "631px", overflowY: "auto", display: "flex", flexDirection: "column-reverse", background: "#bebebe"}}>
             <Stack spacing={3}>
               {messages.map((el, idx) => {
                 switch (el.type) {
