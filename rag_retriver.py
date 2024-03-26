@@ -1,17 +1,18 @@
 from pinecone import Pinecone, ServerlessSpec
 from openai import OpenAI
 from dotenv import dotenv_values
+import os
 
 
-env_name = "credentials.env"
-config = dotenv_values(env_name)
-client = OpenAI(api_key= config["openai_api"])
+# env_name = "credentials.env"
+# config = dotenv_values(env_name)
+client = OpenAI(api_key= os.environ.get("openai_api"))
 
 
-index_name = config["index_name"]
+index_name = os.environ.get("index_name")
 pc = Pinecone(
-    api_key =  config["Pinecone_api_key"],
-    environment =  config["Pinecone_environment"]
+    api_key =  os.environ.get("Pinecone_api_key"),
+    environment =  os.environ.get("Pinecone_environment")
 )
 index = pc.Index(index_name)
 
