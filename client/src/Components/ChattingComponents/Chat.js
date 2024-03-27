@@ -1,5 +1,3 @@
-import { Link, useParams } from "react-router-dom";
-import { Chat_History} from "../../advisorData"
 import { Stack, Box } from "@mui/material";
 import React, { useEffect, useRef, useState } from "react";
 import Timeline from "./Timeline"
@@ -8,16 +6,19 @@ import DocMsg from "./DocMsg"
 import LinkMsg from "./LinkMsg"
 import TextMsg from "./TextMsg"
 import ReplyMsg from "./ReplyMsg"
-import { fakerTR } from "@faker-js/faker";
+import { el, fakerTR } from "@faker-js/faker";
 import Footer from "./Footer";
+import { api } from "../api";
 
-export default function Chat({fullName, image, school}){
+export default function Chat({fullName, image, school, id}){
     const menu = true;
-    const [messages, setMessages] = useState([...Chat_History]);
+    const [messages, setMessages] = useState([]);
 
     useEffect(() => {
-        setMessages(messages);
-    },[messages])
+      
+      api().get("/messages/0/2/false").then((res) => setMessages(res.data))
+      console.log(messages)
+    },[])
 
     return (
         <div className="border border-white" >
@@ -35,6 +36,12 @@ export default function Chat({fullName, image, school}){
           </div>
           <Box p={3} style={{maxHeight: "631px", minHeight: "631px", overflowY: "auto", display: "flex", flexDirection: "column-reverse", background: "#bebebe"}}>
             <Stack spacing={3}>
+              {messages.map((el, index) => {
+                  return (
+                    <div>{el.message}</div>
+                  )
+                })
+              }
               {messages.map((el, idx) => {
                 switch (el.type) {
                   case "divider":

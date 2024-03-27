@@ -20,9 +20,10 @@ export default function GraduateStudents(){
             {graduateList.map((graduate) => {
                 graduate.school=Univercities[schoolId];
                 return (
-                    <GraduateStudent key={"graduate-"+graduate.id} id={graduate.id} image={graduate.image} fullName={graduate.fullName} bio={graduate.bio} schoolId={schoolId}/>
+                    <GraduateStudent key={"graduate-"+graduate.id} id={graduate.id} image={fakerTR.image.avatarGitHub()} fullName={graduate.username} bio={fakerTR.person.bio()} schoolId={schoolId}/>
                 )
             })}
+            {graduateList.length === 0 && <p className="text-white mt-4">Unfortunately, we have no graduates from this school </p>}
         </div>
     )
 }

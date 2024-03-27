@@ -1,12 +1,27 @@
 import { useParams } from "react-router-dom";
-import {GraduateStudentList} from "../advisorData"
+import {Univercities} from "../advisorData"
 import React from "react";
 import Chat from "./ChattingComponents/Chat";
+import { useEffect, useState } from "react";
+import { api } from "./api";
+import { fakerTR } from "@faker-js/faker";
 
 export default function GraduateStudentChat(){
-  const { id } = useParams();
+  const { schoolId, id } = useParams();
+  const [ graduateList, setGraduateList] = useState([])
+
+  useEffect(() => {
+    console.log("schoolId"+schoolId)
+    api().get("/graduate/"+schoolId).then((res) => setGraduateList(res.data)).catch((e) => console.log(e))
+    console.log(graduateList)
+  },[])
 
   return (
-    <Chat fullName={GraduateStudentList[id].fullName} image={GraduateStudentList[id].image} school={GraduateStudentList[id].school}/>
+    <div>
+      { graduateList.length !== 0 &&
+        <Chat fullName={graduateList[id].username} image={fakerTR.image.avatarGitHub()} school={Univercities[parseInt(graduateList[id].school_name)]}/>
+      }
+    </div>
+    
   )
 }
