@@ -19,7 +19,7 @@ export default function GraduateStudentChat(){
   return (
     <div>
       { graduateList.length !== 0 &&
-        <Chat fullName={graduateList[id].username} image={fakerTR.image.avatarGitHub()} school={Univercities[parseInt(graduateList[id].school_name)]}/>
+        <Chat fullName={graduateList[id].username} image={fakerTR.image.avatarGitHub()} school={Univercities[parseInt(graduateList[id].school_name)]} id={id}/>
       }
     </div>
     

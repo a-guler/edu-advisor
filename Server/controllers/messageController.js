@@ -14,7 +14,7 @@ const getMessages = async (req, res) => {
         ],
         isAdvisorChat: isAdvisor === 'true'
     },
-    order: [["messageId", "DESC"]],
+    order: [["messageId", "ASC"]],
     limit: 20
   });
 
@@ -25,4 +25,23 @@ const getMessages = async (req, res) => {
   }
 };
 
-module.exports = { getMessages };
+const createMessage = async (req, res) => {
+  const { id, userId, isAdvisor } = req.params;
+
+  const { message, file, type } = req.body;
+  console.log(id,userId,isAdvisor,message,file,type)
+  const postDoc = await Message.create({
+    message: message,
+    file: file,
+    fromUserId: userId,
+    toUserId: id,
+    sendDate: new Date(),
+    isAdvisorChat: isAdvisor === 'true',
+    type: type,
+    subtype: null
+  });
+
+  res.json(postDoc);
+};
+
+module.exports = { getMessages, createMessage };

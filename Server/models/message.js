@@ -24,16 +24,12 @@ module.exports = (sequelize, DataTypes) => {
         allowNull: false,
         unique: true,
         validate: {
-          len: [4, Infinity],
+          len: [1, Infinity],
         },
       },
       file: {
         type: DataTypes.BLOB,
-        allowNull: false,
-        unique: true,
-        validate: {
-          len: [4, Infinity],
-        },
+        allowNull: true
       },
       fromUserId: {
         allowNull: false,
@@ -50,6 +46,22 @@ module.exports = (sequelize, DataTypes) => {
       isAdvisorChat: {
         allowNull: false,
         type: DataTypes.BOOLEAN,
+      },
+      type: {
+        type: DataTypes.STRING,
+        allowNull: false,
+        unique: true,
+        validate: {
+          len: [1, Infinity],
+        },
+      },
+      subtype: {
+        type: DataTypes.STRING,
+        allowNull: true,
+        unique: true,
+        validate: {
+          len: [1, Infinity],
+        },
       },
     },
     {

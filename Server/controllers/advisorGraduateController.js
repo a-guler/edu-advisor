@@ -29,7 +29,7 @@ const getGraduatesById = async (req, res) => {
   if (post) {
     res.json(post);
   } else {
-    res.status(400).json("Couldn't find post with that id");
+    res.status(400).json("Couldn't find graduate with that id");
   }
 };
 

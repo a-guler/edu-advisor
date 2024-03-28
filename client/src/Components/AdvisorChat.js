@@ -12,7 +12,6 @@ export default function AdvisorChat(){
     
   useEffect(() => {
       api().get("/advisor").then((res) => setAdvisorList(res.data))
-      console.log(advisorList,id)
   },[]);
 
   return (
