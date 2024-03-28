@@ -15,6 +15,7 @@ import AdvisorChat from "./Components/AdvisorChat";
 import GraduateStudents from "./Components/GraduateStudents";
 import GraduateStudentChat from "./Components/GraduateStudentChat";
 import SelectGraduateFromSchool from "./Components/SelectGraduateFromSchool";
+import TrainedModelChat from "./Components/TrainedModelChat";
 
 function App() {
   return (
@@ -33,6 +34,7 @@ function App() {
           <Route path="/selectGraduates" element={<SelectGraduateFromSchool/>} />
           <Route path="/graduates/:schoolId" element={<GraduateStudents/>} />
           <Route path="/graduates/:schoolId/:id" element={<GraduateStudentChat />} />
+          <Route path="/trainedModel" element={<TrainedModelChat/>} />
         </Route>
       </Routes>
     </UserContextProvider>
