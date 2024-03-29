@@ -1,12 +1,28 @@
 import { useParams } from "react-router-dom";
-import {AdvisorList} from "../advisorData"
 import React from "react";
 import Chat from "./ChattingComponents/Chat";
+import { useEffect, useState } from "react";
+import { api } from "./api";
+import { fakerTR } from "@faker-js/faker";
 
 export default function AdvisorChat(){
   const { id } = useParams();
+  const [advisorList, setAdvisorList] = useState([])
+
+    
+  useEffect(() => {
+      api().get("/advisor").then((res) => setAdvisorList(res.data))
+  },[]);
 
   return (
-    <Chat fullName={AdvisorList[id].fullName} image={AdvisorList[id].image}/>
+    <div>
+      {advisorList.filter((advisor) => advisor.id + "" === id).map((advisor) => {
+        return (
+          <Chat fullName={advisor.username} image={fakerTR.image.avatarGitHub()} id={id}/>
+        )
+      })
+      }
+    </div>
+    
   )
 }

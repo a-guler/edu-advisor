@@ -154,7 +154,7 @@ import {
     return urlRegex.test(text);
   }
   
-  const Footer = ({messages, setMessages}) => {
+  const Footer = ({messages, sendMessage}) => {
     const theme = useTheme();
   
     const user_id = window.localStorage.getItem("user_id");
@@ -245,14 +245,12 @@ import {
               >
                 <IconButton
                   onClick={() => {
-                    console.log("test")
-                    console.log(messages)
-                    setMessages([...messages,{
+                    console.log(linkify(value))
+                    sendMessage({
                         type: "msg",
                         message: linkify(value),
-                        incoming: false,
-                        outgoing: true,
-                    } ])
+                        file: null
+                    })
                     setValue('');
                     /*
                     socket.emit("text_message", {

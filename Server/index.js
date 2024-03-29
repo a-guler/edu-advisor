@@ -5,6 +5,9 @@ const { sequelize } = require("./models");
 const authRoutes = require("./routes/authRoutes");
 const postRoutes = require("./routes/postRoutes");
 const quizRoutes = require("./routes/quizRoutes");
+const advisorGraduateRoutes = require("./routes/advisorGraduateRoutes");
+const messagesRoutes = require("./routes/messageRoutes");
+
 const app = express();
 
 // Checking database connection
@@ -37,6 +40,8 @@ app.use("/uploads", express.static(__dirname + "/uploads"));
 app.use(authRoutes);
 app.use(postRoutes);
 app.use(quizRoutes);
+app.use(advisorGraduateRoutes);
+app.use(messagesRoutes)
 
 // Error handling middleware
 app.use((err, req, res, next) => {

@@ -1,14 +1,22 @@
 import Advisor from "./Advisor";
-import {AdvisorList} from "../advisorData"
+import { useEffect, useState } from "react";
+import { api } from "./api";
+import { fakerTR } from "@faker-js/faker";
 
 
 export default function Advisors() {
 
+    const [advisorList, setAdvisorList] = useState([])
+
+    useEffect(() => {
+        api().get("/advisor").then((res) => setAdvisorList(res.data))
+    },[])
+
     return(
         <div>
-            {AdvisorList.map((advisor) => {
+            {advisorList.map((advisor) => {
                 return (
-                    <Advisor id={advisor.id} image={advisor.image} fullName={advisor.fullName} bio={advisor.bio}/>
+                    <Advisor key={"advisor-"+advisor.id} id={advisor.id} image={fakerTR.image.avatarGitHub()} fullName={advisor.username} bio={fakerTR.person.bio()}/>
                 )
             })}
         </div>
