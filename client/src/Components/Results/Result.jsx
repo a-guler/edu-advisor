@@ -55,8 +55,8 @@ function Result({ answers }) {
   }
 
   return (
-    <div className="max-w-[1800px] max-h-[700px] overflow-x-auto overflow-y-auto">
-      <div className="mx-[20px] min-h-[230px] flex items-center justify-center">
+    <div className="max-w-[950px] max-h-[700px] overflow-x-auto overflow-y-auto">
+      <div className="min-h-[230px] flex items-center ">
         {error && <div>error happened</div>}
         {loading && <Loading></Loading>}
         {!error && !loading && results && (

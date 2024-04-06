@@ -24,7 +24,7 @@ function Quiz() {
     <div className="flex justify-center mt-[100px]">
       {interestQuestions ? (
         quizEnd ? (
-          <div className="bg-white w-[850px]  flex items-center justify-center p-4 border-2 border-solid border-transparent rounded-md">
+          <div className="bg-white w-[950px]  flex items-center justify-center p-4 border-2 border-solid border-transparent rounded-md">
             <Result answers={answers} />
           </div>
         ) : (
