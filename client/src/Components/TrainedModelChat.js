@@ -24,7 +24,24 @@ export default function TrainedModelChat(){
     }
 
     function sendMessage(data) {
-      
+      setMessages([...messages, data])
+      async function asyncFunction()  {
+        let chatGptData = {
+          "prompt": data.message,
+          "recommend": []
+        }
+        let header = {
+          headers: {
+            "X-API-KEY": "7b77681e-cf15-4646-a0b7-51f65a9c4ded"
+          }
+        }
+        console.log(chatGptData)
+        const response = await axios.post("https://aguler-edu-advisor.hf.space/api/v1/secure/edu-advisor", chatGptData, header);
+        console.log(response)
+        setMessages([...messages, data, {"incoming": true, "message": response.data, "type": "msg"}])
+        // channelUpdate.publish("EduAdvisor","Update")
+      }
+      asyncFunction()
     }
 
     function getData() {
@@ -38,7 +55,7 @@ export default function TrainedModelChat(){
     return(
         <div className="border border-white">
             <div className="flex flex-row bg-white">
-            <img src={fakerTR.image.avatarGitHub()} alt="" className="w-16 h-16 rounded-full m-3"/>
+            <img src={"gpt.png"} alt="" className="w-16 h-16 rounded-full m-3"/>
             <div className="ml-7">
               <p className="mt-2 font-bold">
                 {`ChatGPT Eğitilmiş Model`}
