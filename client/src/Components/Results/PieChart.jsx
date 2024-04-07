@@ -1,8 +1,10 @@
 import React from "react";
+import "chart.js/auto";
 import { Pie } from "react-chartjs-2";
 
 function PieChart({ data }) {
   const categories = {};
+
   data.forEach((major) => {
     if (!categories[major["Major Category"]]) {
       categories[major["Major Category"]] = 0;
@@ -15,27 +17,13 @@ function PieChart({ data }) {
     datasets: [
       {
         data: Object.values(categories),
-        backgroundColor: [
-          "#FF6384",
-          "#36A2EB",
-          "#FFCE56",
-          "#8A2BE2",
-          // Add more colors as needed
-        ],
-        hoverBackgroundColor: [
-          "#FF6384",
-          "#36A2EB",
-          "#FFCE56",
-          "#8A2BE2",
-          // Add more colors as needed
-        ],
       },
     ],
   };
 
   return (
-    <div className="w-64">
-      <Pie data={chartData} />
+    <div className="w-64 mt-5">
+      <Pie data={chartData} width="20%" />
     </div>
   );
 }
