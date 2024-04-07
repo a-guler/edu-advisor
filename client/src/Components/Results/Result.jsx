@@ -3,7 +3,6 @@ import Loading from "../Loading";
 import MajorInfo from "./MajorInfo";
 import PieChart from "./PieChart";
 import { Navigate } from "react-router-dom";
-import { json } from "express";
 
 function Result({ answers }) {
   const [results, setResults] = useState(null);
