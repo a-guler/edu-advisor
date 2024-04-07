@@ -13,7 +13,9 @@ class validation(BaseModel):
     prompt: str
 
 class answers(BaseModel):
-    answers: list
+    int_answers: list
+    risk_ans: list
+    inc_ans: list
 
 
 
@@ -31,7 +33,7 @@ async def RAGPrompt(item: validation):
 
 @router.post("/major-recommend")
 async def MajorRecommend(answers: answers):
-    result =  score(answers[0], answers[1], answers[2])   
+    result = score(answers.int_answers, answers.risk_ans, answers.inc_ans)   
     
     json_compatible_item_data = jsonable_encoder(result)
     return JSONResponse(content=json_compatible_item_data)
