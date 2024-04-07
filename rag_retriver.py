@@ -27,10 +27,14 @@ def GetGPTCompletion(prompt, rag, recommendedMajors=None):
     '''
 
     if (recommendedMajors != None and recommendedMajors != []):
-        recommend_prompt = """\nYou are given list of major which is determined for this user, who you are talking to right now. 
-        Make recommendation based on the given list of majors. assist about this majors and give information. Give the the person information about this major. This person is interested this field of study in the way of interest, income interest and risk interest.
-        This list ist sorted by best to worst. Use this list to make 
-        recommendation and assist user to make decision.The list as json format:""" +  json.dumps(recommendedMajors, separators=(',', ':'))
+        sentences = []
+        for i in range(len(recommendedMajors)):
+            sentence = 'this person is interested in %s. And this major is under %s category.' % (recommendedMajors[i]["Major"],{recommendedMajors[i]["Major Category"]})
+            sentences.append(sentence)
+        major_prompt = ".".join(str(element) for element in sentences)
+        recommend_prompt = """The user has taken a test and found that they are interested in the following majors. The list is given most interested to least interested.""" + major_prompt
+        
+        
         print(f'Prompt: {recommend_prompt}')
         DEFAULT_SYSTEM_PROMPT = DEFAULT_SYSTEM_PROMPT + recommend_prompt
 
