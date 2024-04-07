@@ -1,6 +1,6 @@
 const bcrypt = require("bcryptjs");
 const jwt = require("jsonwebtoken");
-const { User } = require("../models");
+const { User, Advisor } = require("../models");
 require("dotenv").config();
 const salt = bcrypt.genSaltSync();
 const secret = process.env.SECRET;
@@ -32,7 +32,7 @@ const login = async (req, res) => {
     if (passwordResult) {
       //logged in
       jwt.sign(
-        { username, id: userDoc.id },
+        { username, id: userDoc.id, role: "Candidate" },
         secret,
         { expiresIn: "24h" },
         (err, token) => {
@@ -46,6 +46,7 @@ const login = async (req, res) => {
               .json({
                 id: userDoc.id,
                 username,
+                role: "Candidate"
               });
           }
         }
@@ -57,6 +58,45 @@ const login = async (req, res) => {
     res.status(400).json("Wrong username.");
   }
 };
+
+const loginAdvisor = async (req, res) => {
+  const { username, password } = req.body;
+  const advisorDoc = await Advisor.findOne({
+    where: {
+      username: username,
+    },
+  });
+  if (advisorDoc) {
+    const passwordResult = bcrypt.compareSync(password, advisorDoc.password);
+    if (passwordResult) {
+      //logged in
+      jwt.sign(
+        { username, id: advisorDoc.id, role: "Advisor" },
+        secret,
+        { expiresIn: "24h" },
+        (err, token) => {
+          if (err) throw err;
+          else {
+            res
+              .cookie("token", token, {
+                httpOnly: true,
+                maxAge: 24 * 60 * 60 * 1000,
+              })
+              .json({
+                id: advisorDoc.id,
+                username,
+                role: "Advisor"
+              });
+          }
+        }
+      );
+    } else {
+      res.status(400).json("Wrong credentials");
+    }
+  } else {
+    res.status(400).json("Wrong username.");
+  }
+}
 
 const profile = (req, res) => {
   const { token } = req.cookies;
@@ -72,4 +112,4 @@ const logout = (req, res) => {
   res.cookie("token", "").json("ok");
 };
 
-module.exports = { register, login, profile, logout };
+module.exports = { register, login, loginAdvisor, profile, logout };
