@@ -12,6 +12,7 @@ import { api } from "../api";
 import { userContext } from "../../UserContext";
 import axios from "axios";
 import { configureAbly, useChannel } from "@ably-labs/react-hooks";
+import { useNavigate } from "react-router-dom"
 
 const ABLY_API = '14lC4A.jhcStQ:FF4ilXO0wXMCTcZkb9zOMQcciRB7K_Xdj9wbb_T8r_o'
 configureAbly({ key: ABLY_API, clientId: '543' });
@@ -20,6 +21,7 @@ export default function Chat({fullName, image, school, id}){
     const menu = true;
     const [messages, setMessages] = useState([]);
     const value = useContext(userContext)
+    const navigate = useNavigate();
 
     const [channelUpdate] = useChannel("EduAdvisor", (message) => {
       getData()
@@ -60,8 +62,8 @@ export default function Chat({fullName, image, school, id}){
     },[])
 
     return (
-        <div className="border border-white" >
-          <div className="flex flex-row bg-white cursor-pointer">
+        <div className="border border-white rounded-xl" >
+          <div className="flex flex-row bg-white cursor-pointer rounded-t-xl" onClick={() => {navigate("/trainedModel", {state: {"txt": "Merhaba"}})}}>
             <img src={image} alt="" className="w-16 h-16 rounded-full m-3"/>
             <div className="ml-7">
               <p className="mt-2 font-bold">

@@ -200,6 +200,8 @@ import {
                 ? "#F8FAFF"
                 : theme.palette.background,
             boxShadow: "0px 0px 2px rgba(0, 0, 0, 0.25)",
+            borderBottomLeftRadius: "0.75rem",
+            borderBottomRightRadius: "0.75rem"
           }}
         >
           <Stack direction="row" alignItems={"center"} spacing={isMobile ? 1 : 3}>
