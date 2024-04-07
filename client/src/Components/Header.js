@@ -37,11 +37,21 @@ function Header() {
         Edu Advisor
       </Link>
       <nav>
-        {username && (
+        {username && userInfo?.role === 'Candidate' && (
           <>
             <Link className="font-bold" to="/advisors">Advisors</Link>
             <Link className="font-bold" to="/selectGraduates">Graduates</Link>
             <Link className="font-bold" to="/create">Create new post</Link>
+            <a className="font-bold" onClick={logout}>Logout</a>
+          </>
+        )}
+        {username && userInfo?.role === 'Graduate' && (
+          <>
+            <a className="font-bold" onClick={logout}>Logout</a>
+          </>
+        )}
+        {username && userInfo?.role === 'Advisor' && (
+          <>
             <a className="font-bold" onClick={logout}>Logout</a>
           </>
         )}

@@ -32,6 +32,14 @@ module.exports = (sequelize, DataTypes) => {
           len: [4, Infinity],
         },
       },
+      password: {
+        type: DataTypes.STRING,
+        allowNull: false,
+      },
+      name: {
+        type: DataTypes.STRING,
+        allowNull: false,
+      },
     },
     {
       sequelize,

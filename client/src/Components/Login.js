@@ -35,43 +35,27 @@ function Login() {
 
   const login = async (event) => {
     event.preventDefault();
-    if (loginType === 'Candidate'){
-      const response = await fetch("http://localhost:4000/login", {
-        method: "POST",
-        body: JSON.stringify({ username, password }),
-        headers: { "Content-Type": "application/json" },
-        credentials: "include",
-      });
+    let apiPath = ""
+    if (loginType === 'Candidate') apiPath = "http://localhost:4000/login"
+    if (loginType === 'Graduate') apiPath = "http://localhost:4000/loginGraduate"
+    if (loginType === 'Advisor') apiPath = "http://localhost:4000/loginAdvisor"
 
-      if (response.ok) {
-        response.json().then((userInfo) => {
-          setUserInfo(userInfo);
-        });
-        setRedirect(true);
-      } else {
-        alert("Wrong credentials");
-      }
-    } else if (loginType === 'Advisor'){
-      const response = await fetch("http://localhost:4000/loginAdvisor", {
-        method: "POST",
-        body: JSON.stringify({ username, password }),
-        headers: { "Content-Type": "application/json" },
-        credentials: "include",
-      });
+    const response = await fetch(apiPath, {
+      method: "POST",
+      body: JSON.stringify({ username, password }),
+      headers: { "Content-Type": "application/json" },
+      credentials: "include",
+    });
 
-      console.log(response.ok)
-      
-      if (response.ok) {
-        response.json().then((userInfo) => {
-          console.log(userInfo)
-          setUserInfo(userInfo);
-        });
-        setRedirect(true);
-      } else {
-        alert("Wrong credentials");
-      }
+    if (response.ok) {
+      response.json().then((userInfo) => {
+        setUserInfo(userInfo);
+      });
+      setRedirect(true);
+    } else {
+      alert("Wrong credentials");
     }
-    
+
   };
 
   if (redirect) {
