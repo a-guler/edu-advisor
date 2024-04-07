@@ -11,16 +11,26 @@ import Footer from "./Footer";
 import { api } from "../api";
 import { userContext } from "../../UserContext";
 import axios from "axios";
+import { configureAbly, useChannel } from "@ably-labs/react-hooks";
+
+const ABLY_API = '14lC4A.jhcStQ:FF4ilXO0wXMCTcZkb9zOMQcciRB7K_Xdj9wbb_T8r_o'
+configureAbly({ key: ABLY_API, clientId: '543' });
 
 export default function Chat({fullName, image, school, id}){
     const menu = true;
     const [messages, setMessages] = useState([]);
     const value = useContext(userContext)
 
+    const [channelUpdate] = useChannel("EduAdvisor", (message) => {
+      getData()
+      console.log(message.data); 
+  });
+
     function addIncoming(data) {
       if (value.userInfo.role === 'Candidate'){
+
         data.forEach(element => {
-          element.incoming = element.toUserId === id
+          element.incoming = parseInt(element.toUserId) !== parseInt(id)
         });
       } else {
         data.forEach(element => {
@@ -32,11 +42,11 @@ export default function Chat({fullName, image, school, id}){
     }
 
     function sendMessage(data) {
-      async function test()  {
+      async function asyncFunction()  {
         const response = await axios.post(`http://localhost:4000/messages/${id}/${value.userInfo.id}/${school !== undefined ? 'false' : 'true'}`, data);
-        getData();
+        channelUpdate.publish("EduAdvisor","Update")
       }
-      test()
+      asyncFunction()
     }
 
     function getData() {
@@ -46,11 +56,12 @@ export default function Chat({fullName, image, school, id}){
 
     useEffect(() => {
       getData();
+      console.log(id)
     },[])
 
     return (
         <div className="border border-white" >
-          <div className="flex flex-row bg-white">
+          <div className="flex flex-row bg-white cursor-pointer">
             <img src={image} alt="" className="w-16 h-16 rounded-full m-3"/>
             <div className="ml-7">
               <p className="mt-2 font-bold">
