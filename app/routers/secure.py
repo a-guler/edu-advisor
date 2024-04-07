@@ -11,6 +11,7 @@ router = APIRouter()
 
 class validation(BaseModel):
     prompt: str
+    recommend: list
 
 class answers(BaseModel):
     int_answers: list
@@ -27,7 +28,7 @@ async def get_testroute(user: dict = Depends(get_user)):
 @router.post("/edu-advisor")
 async def RAGPrompt(item: validation):
     rag = VectorSearch(item.prompt)
-    completion = GetGPTCompletion(item.prompt, rag)
+    completion = GetGPTCompletion(item.prompt, rag, item.recommend)
     return completion
 
 
