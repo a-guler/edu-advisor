@@ -45,13 +45,9 @@ function Header() {
             <a className="font-bold" onClick={logout}>Logout</a>
           </>
         )}
-        {username && userInfo?.role === 'Graduate' && (
+        {username && (userInfo?.role === 'Graduate' || userInfo?.role === 'Advisor') && (
           <>
-            <a className="font-bold" onClick={logout}>Logout</a>
-          </>
-        )}
-        {username && userInfo?.role === 'Advisor' && (
-          <>
+            <Link className="font-bold" to="/userMessageList">Messages</Link>
             <a className="font-bold" onClick={logout}>Logout</a>
           </>
         )}

@@ -12,6 +12,12 @@ module.exports = {
       username: {
         type: Sequelize.STRING
       },
+      password: {
+        type: DataTypes.STRING
+      },
+      name: {
+        type: DataTypes.STRING
+      },
       createdAt: {
         allowNull: false,
         type: Sequelize.DATE

@@ -18,9 +18,15 @@ export default function Chat({fullName, image, school, id}){
     const value = useContext(userContext)
 
     function addIncoming(data) {
-      data.forEach(element => {
-        element.incoming = element.toUserId === id
-      });
+      if (value.userInfo.role === 'Candidate'){
+        data.forEach(element => {
+          element.incoming = element.toUserId === id
+        });
+      } else {
+        data.forEach(element => {
+          element.incoming = element.fromUserId === id
+        });
+      }
       console.log(data);
       return data;
     }
