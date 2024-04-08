@@ -21,6 +21,8 @@ import UserMessageList from "./Components/UserMessageList";
 import UserChat from "./Components/UserChat";
 import { MessageContextProvider } from "./MessageContext";
 
+import ResultSelected from "./Components/Results/ResultSelected";
+
 function App() {
   return (
     <UserContextProvider>
@@ -49,6 +51,7 @@ function App() {
             <Route path="/userMessageList" element={<UserMessageList />} />
             <Route path="/userChat" element={<UserChat />} />
             <Route path="/results" element={<Results />} />
+            <Route path="/result/:id" element={<ResultSelected />} />
           </Route>
         </Routes>
       </MessageContextProvider>
