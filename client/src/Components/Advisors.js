@@ -16,7 +16,7 @@ export default function Advisors() {
         <div>
             {advisorList.map((advisor) => {
                 return (
-                    <Advisor key={"advisor-"+advisor.id} id={advisor.id} image={fakerTR.image.avatarGitHub()} fullName={advisor.username} bio={fakerTR.person.bio()}/>
+                    <Advisor key={"advisor-"+advisor.id} id={advisor.id} image={fakerTR.image.avatarGitHub()} fullName={advisor.name} bio={fakerTR.person.bio()}/>
                 )
             })}
         </div>

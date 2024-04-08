@@ -18,7 +18,7 @@ export default function AdvisorChat(){
     <div>
       {advisorList.filter((advisor) => advisor.id + "" === id).map((advisor) => {
         return (
-          <Chat fullName={advisor.username} image={fakerTR.image.avatarGitHub()} id={id}/>
+          <Chat fullName={advisor.name} image={fakerTR.image.avatarGitHub()} id={id}/>
         )
       })
       }

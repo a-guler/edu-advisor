@@ -7,9 +7,6 @@ module.exports = (sequelize, DataTypes) => {
      * This method is not a part of Sequelize lifecycle.
      * The `models/index` file will call this method automatically.
      */
-    static associate(models) {
-      this.hasMany(models.Post, { foreignKey: "authorId" });
-    }
   }
   Advisor.init(
     {
@@ -26,6 +23,14 @@ module.exports = (sequelize, DataTypes) => {
         validate: {
           len: [4, Infinity],
         },
+      },
+      password: {
+        type: DataTypes.STRING,
+        allowNull: false,
+      },
+      name: {
+        type: DataTypes.STRING,
+        allowNull: false,
       },
     },
     {

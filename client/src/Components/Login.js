@@ -3,11 +3,16 @@ import { useState } from "react";
 import { api } from "./api";
 import { Navigate } from "react-router-dom";
 import { userContext } from "../UserContext";
+import InputLabel from '@mui/material/InputLabel';
+import MenuItem from '@mui/material/MenuItem';
+import FormControl from '@mui/material/FormControl';
+import Select, { SelectChangeEvent } from '@mui/material/Select';
 
 function Login() {
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
   const [redirect, setRedirect] = useState(false);
+  const [loginType, setLoginType] = useState("Candidate")
   const { setUserInfo } = useContext(userContext);
   // const login = (event) => {
   //   event.preventDefault();
@@ -30,8 +35,12 @@ function Login() {
 
   const login = async (event) => {
     event.preventDefault();
+    let apiPath = ""
+    if (loginType === 'Candidate') apiPath = "http://localhost:4000/login"
+    if (loginType === 'Graduate') apiPath = "http://localhost:4000/loginGraduate"
+    if (loginType === 'Advisor') apiPath = "http://localhost:4000/loginAdvisor"
 
-    const response = await fetch("http://localhost:4000/login", {
+    const response = await fetch(apiPath, {
       method: "POST",
       body: JSON.stringify({ username, password }),
       headers: { "Content-Type": "application/json" },
@@ -46,6 +55,7 @@ function Login() {
     } else {
       alert("Wrong credentials");
     }
+
   };
 
   if (redirect) {
@@ -57,8 +67,22 @@ function Login() {
       <h1 className="mb-[50px] text-4xl font-bold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl">
         Login
       </h1>
+      <FormControl fullWidth>
+        <InputLabel id="test-select-label">User Type</InputLabel>
+        <Select
+          labelId="test-select-label"
+          id="demo-simple-select"
+          value={loginType}
+          label="User Type"
+          onChange={(e) => setLoginType(e.target.value)}
+        >
+          <MenuItem value={"Candidate"}>Candidate</MenuItem>
+          <MenuItem value={"Graduate"}>Graduate</MenuItem>
+          <MenuItem value={"Advisor"}>Advisor</MenuItem>
+        </Select>
+      </FormControl>
       <input
-        className="postInput"
+        className="postInput mt-3"
         type="text"
         placeholder="username"
         value={username}
