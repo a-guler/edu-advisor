@@ -7,9 +7,6 @@ module.exports = (sequelize, DataTypes) => {
      * This method is not a part of Sequelize lifecycle.
      * The `models/index` file will call this method automatically.
      */
-    static associate(models) {
-      this.hasMany(models.Post, { foreignKey: "authorId" });
-    }
   }
   Message.init(
     {
@@ -46,6 +43,11 @@ module.exports = (sequelize, DataTypes) => {
       isAdvisorChat: {
         allowNull: false,
         type: DataTypes.BOOLEAN,
+      },
+      isFromUser: {
+        allowNull: false,
+        type: DataTypes.BOOLEAN,
+        defaultValue: true
       },
       type: {
         type: DataTypes.STRING,

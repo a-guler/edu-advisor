@@ -1,5 +1,5 @@
 const jwt = require("jsonwebtoken");
-const { Graduate, Advisor } = require("../models");
+const { Graduate, Advisor, sequelize } = require("../models");
 const multer = require("multer");
 const uploadMiddleware = multer({ dest: "uploads/" });
 const fs = require("fs");
@@ -33,4 +33,12 @@ const getGraduatesById = async (req, res) => {
   }
 };
 
-module.exports = { getAdvisors, getGraduatesById };
+const getUserMessageList = async (req, res) => {
+  const { isAdvisorChat, toUserId } = req.params
+  console.log(toUserId)
+  const response = await sequelize.query(`select distinct username, id from edu_advisor.messages, edu_advisor.users where fromUserId = id and isAdvisorChat=${isAdvisorChat === 'true'} and toUserId=${toUserId}`);
+  console.log(response)
+  res.json(response[0])
+}
+
+module.exports = { getAdvisors, getGraduatesById, getUserMessageList };

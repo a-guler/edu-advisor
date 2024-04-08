@@ -37,7 +37,7 @@ function Header() {
         Edu Advisor
       </Link>
       <nav>
-        {username && (
+        {username && userInfo?.role === 'Candidate' && (
           <>
             <Link className="font-bold" to="/advisors">
               Advisors
@@ -57,6 +57,12 @@ function Header() {
             <a className="font-bold" onClick={logout}>
               Logout
             </a>
+          </>
+        )}
+        {username && (userInfo?.role === 'Graduate' || userInfo?.role === 'Advisor') && (
+          <>
+            <Link className="font-bold" to="/userMessageList">Messages</Link>
+            <a className="font-bold" onClick={logout}>Logout</a>
           </>
         )}
         {!username && (
