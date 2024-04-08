@@ -23,6 +23,9 @@ module.exports = (sequelize, DataTypes) => {
       quizResults: {
         type: DataTypes.JSON,
       },
+      quizName: {
+        type: DataTypes.STRING,
+      },
 
       userId: {
         type: DataTypes.INTEGER,

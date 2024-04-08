@@ -2,6 +2,7 @@ import React from "react";
 import { useState, useEffect } from "react";
 import QuestionCard from "../../Components/QuestionCard/QuestionCard";
 import Result from "../../Components/Results/Result";
+import { useLocation } from "react-router-dom";
 function Quiz() {
   const [interestQuestions, setInterestQuestions] = useState([]);
   const [otherQuestions, setOtherQuestions] = useState([]);
@@ -9,6 +10,9 @@ function Quiz() {
   const [quizEnd, setQuizEnd] = useState(false);
   const [count, setCount] = useState(0);
 
+  const location = useLocation();
+
+  const quizName = location.state.quizName;
   useEffect(() => {
     fetch("http://localhost:4000/questions").then((response) => {
       response.json().then((questionsData) => {
@@ -25,7 +29,7 @@ function Quiz() {
       {interestQuestions ? (
         quizEnd ? (
           <div className="bg-white w-[950px]  flex items-center justify-center p-4 border-2 border-solid border-transparent rounded-md">
-            <Result answers={answers} />
+            <Result answers={answers} quizName={quizName} />
           </div>
         ) : (
           <div className="bg-white w-[850px]  flex items-center justify-center p-4 border-2 border-solid border-transparent rounded-md">

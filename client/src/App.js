@@ -17,6 +17,7 @@ import GraduateStudents from "./Components/GraduateStudents";
 import GraduateStudentChat from "./Components/GraduateStudentChat";
 import SelectGraduateFromSchool from "./Components/SelectGraduateFromSchool";
 import TrainedModelChat from "./Components/TrainedModelChat";
+import ResultSelected from "./Components/Results/ResultSelected";
 
 function App() {
   return (
@@ -43,6 +44,7 @@ function App() {
           />
           <Route path="/trainedModel" element={<TrainedModelChat />} />
           <Route path="/results" element={<Results />} />
+          <Route path="/result/:id" element={<ResultSelected />} />
         </Route>
       </Routes>
     </UserContextProvider>

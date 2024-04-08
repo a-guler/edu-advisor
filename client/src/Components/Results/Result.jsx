@@ -4,7 +4,7 @@ import MajorInfo from "./MajorInfo";
 import PieChart from "./PieChart";
 import { Navigate } from "react-router-dom";
 
-function Result({ answers }) {
+function Result({ answers, quizName }) {
   const [results, setResults] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(false);
@@ -23,7 +23,7 @@ function Result({ answers }) {
     const timer = setTimeout(() => {
       console.log("timeoutdone");
       fetchResults();
-    }, 5000);
+    }, 2000);
 
     return () => clearTimeout(timer);
   }, []);
@@ -63,6 +63,7 @@ function Result({ answers }) {
       credentials: "include",
       body: JSON.stringify({
         quizResults: JSON.stringify(results.data),
+        quizName: quizName,
       }),
     })
       .then((response) => {

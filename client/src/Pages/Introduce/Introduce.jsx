@@ -1,14 +1,16 @@
-import { useContext } from "react";
-import { useNavigate } from "react-router-dom";
+import { useContext, useState } from "react";
 import { userContext } from "../../UserContext";
-
+import { useNavigate } from "react-router-dom";
 function Introduce() {
-  const navigate = useNavigate();
+  const [quizName, setQuizName] = useState("");
+
   const { userInfo } = useContext(userContext);
 
+  const navigate = useNavigate();
   const startQuiz = () => {
     if (userInfo?.username) {
-      navigate("/quiz");
+      console.log("burda" + quizName);
+      navigate("/quiz", { state: { quizName: quizName } });
     } else {
       navigate("/register");
     }
@@ -29,11 +31,24 @@ function Introduce() {
               Hangi konuda uzmanlaşmalıyım?
             </h2>
             <div className="text-xl text-center">
-              Aşağıda görünen soruları yanıtlayın, biz de sonuçlarınızı analiz
+              Karşınıza çıkacak soruları yanıtlayın, biz de sonuçlarınızı analiz
               edip hangi ana dalların size uygun olabileceğini gösterelim.
             </div>
           </div>
         </div>
+
+        <div className="flex justify-between w-1/3 items-center">
+          <input
+            className="postInput"
+            type="text"
+            placeholder="QuizName"
+            value={quizName}
+            onChange={(e) => {
+              setQuizName(e.target.value);
+            }}
+          />
+        </div>
+
         <div
           onClick={startQuiz}
           className="w-[200px] h-[50px] text-sm bg-pink-500 text-white flex items-center justify-center border-2 border-solid border-transparent rounded-md mt-[10px] cursor-pointer"

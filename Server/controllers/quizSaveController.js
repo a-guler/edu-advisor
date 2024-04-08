@@ -5,13 +5,15 @@ const fs = require("fs");
 const secret = process.env.SECRET;
 
 const createQuiz = async (req, res) => {
-  const { quizResults } = req.body;
+  const { quizResults, quizName } = req.body;
+  console.log(quizName);
   const { token } = req.cookies;
   if (token) {
     jwt.verify(token, secret, {}, async (error, info) => {
       if (error) throw error;
       const quizDoc = await Quiz.create({
         quizResults: quizResults,
+        quizName: quizName,
         userId: info.id,
       });
 
@@ -21,7 +23,7 @@ const createQuiz = async (req, res) => {
 };
 
 const getQuizzes = async (req, res) => {
-  const posts = await Quiz.findAll({
+  const quizzes = await Quiz.findAll({
     include: [
       {
         model: User,
@@ -30,7 +32,7 @@ const getQuizzes = async (req, res) => {
     ],
     order: [["createdAt", "DESC"]],
   });
-  res.json(posts);
+  res.json(quizzes);
 };
 
 const getQuizById = async (req, res) => {

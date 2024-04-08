@@ -1,6 +1,7 @@
 import React from "react";
 
 function TableComponent({ data }) {
+  console.log(data);
   return (
     <div className="">
       <table className="min-w-full divide-y divide-gray-200">
