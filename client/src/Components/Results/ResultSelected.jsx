@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import Loading from "../Loading";
 import MajorInfo from "./MajorInfo";
 import PieChart from "./PieChart";
-import { Navigate, useParams } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 
 function ResultSelected() {
   const [results, setResults] = useState(null);
@@ -10,6 +10,7 @@ function ResultSelected() {
   const [error, setError] = useState(false);
   const [redirect, setRedirect] = useState(false);
   const { id } = useParams();
+  const navigate = useNavigate();
   useEffect(() => {
     const timer = setTimeout(() => {
       console.log("timeoutdone");
@@ -32,11 +33,11 @@ function ResultSelected() {
   }, []);
 
   function startChat() {
-    ////chatsayfasına yönlendir.
+    setRedirect(true);
   }
 
   if (redirect) {
-    return <Navigate to={"/results"} />;
+    return navigate("/trainedModel", { state: { recommend: results } });
   }
 
   return (

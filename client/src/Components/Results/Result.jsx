@@ -16,7 +16,11 @@ function Result({ answers, quizName }) {
     var dataPart2 = data.slice(index1, index1 + index2);
     var dataPart3 = data.slice(index2 + index1, index1 + index2 + index3);
 
-    return [dataPart1, dataPart2, dataPart3];
+    return {
+      int_answers: dataPart1,
+      risk_ans: dataPart2,
+      inc_ans: dataPart3,
+    };
   };
 
   useEffect(() => {
@@ -31,14 +35,19 @@ function Result({ answers, quizName }) {
   var quizAnswersCleaned = cleanData(answers, 15, 5, 5);
 
   async function fetchResults() {
+    console.log(quizAnswersCleaned);
     try {
-      let response = await fetch("http://127.0.0.1:5000/score", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify(quizAnswersCleaned),
-      });
+      let response = await fetch(
+        "https://aguler-edu-advisor.hf.space/api/v1/secure/major-recommend",
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+            "X-API-KEY": "7b77681e-cf15-4646-a0b7-51f65a9c4ded",
+          },
+          body: JSON.stringify(quizAnswersCleaned),
+        }
+      );
       if (response.ok) {
         let data = await response.json();
         console.log(data);
@@ -105,7 +114,7 @@ function Result({ answers, quizName }) {
                 </div>
               </div>
             </div>
-            <div className="flex justify-end">
+            <div className="flex justify-end items-center mt-4">
               <button
                 className={`disabled:text-zinc-400 disabled:bg-gray-200 disabled:hover:border-gray-400 disabled:cursor-not-allowed flex items-center py-2 px-3 rounded font-medium select-none border text-gray-900 bg-white transition-colors hover:border-blue-600 hover:bg-blue-400 hover:text-white `}
                 onClick={saveQuiz}
