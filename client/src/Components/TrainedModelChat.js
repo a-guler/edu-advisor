@@ -22,6 +22,9 @@ export default function TrainedModelChat() {
       let chatGptData = {
         prompt: data.message,
         recommend: recommend,
+        history: convertToChatFormat(
+          state.messages.slice(Math.max(state.messages.length - 4, 0))
+        ),
       };
       let header = {
         headers: {
@@ -33,7 +36,7 @@ export default function TrainedModelChat() {
         chatGptData,
         header
       );
-      console.log(response);
+
       setState({
         messages: [
           ...state.messages,
@@ -44,16 +47,25 @@ export default function TrainedModelChat() {
       });
     }
     asyncFunction();
-    console.log(state);
   }
-
-  useEffect(() => {
-    console.log(location.state);
-  }, []);
-
-  useEffect(() => {
-    console.log(state);
-  }, [state]);
+  function convertToChatFormat(data) {
+    let formattedData = [];
+    for (let i = 0; i < data.length; i++) {
+      const item = data[i];
+      if (item.incoming) {
+        formattedData.push({
+          role: "assistant",
+          content: item.message,
+        });
+      } else {
+        formattedData.push({
+          role: "user",
+          content: item.message,
+        });
+      }
+    }
+    return formattedData;
+  }
 
   return (
     <div className="border border-white rounded-xl">
@@ -76,7 +88,7 @@ export default function TrainedModelChat() {
       >
         <Stack spacing={3}>
           {state.messages.map((el, idx) => {
-            return <TextMsg el={el} menu={menu} />;
+            return <TextMsg el={el} key={idx} menu={menu} />;
           })}
           {state.waitingAnswer && <Typing />}
         </Stack>
