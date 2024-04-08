@@ -7,7 +7,7 @@ const postRoutes = require("./routes/postRoutes");
 const quizRoutes = require("./routes/quizRoutes");
 const advisorGraduateRoutes = require("./routes/advisorGraduateRoutes");
 const messagesRoutes = require("./routes/messageRoutes");
-
+const quizSaveRoutes = require("./routes/quizSaveRoutes");
 const app = express();
 
 // Checking database connection
@@ -41,7 +41,8 @@ app.use(authRoutes);
 app.use(postRoutes);
 app.use(quizRoutes);
 app.use(advisorGraduateRoutes);
-app.use(messagesRoutes)
+app.use(messagesRoutes);
+app.use(quizSaveRoutes);
 
 // Error handling middleware
 app.use((err, req, res, next) => {

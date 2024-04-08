@@ -39,10 +39,21 @@ function Header() {
       <nav>
         {username && userInfo?.role === 'Candidate' && (
           <>
-            <Link className="font-bold" to="/advisors">Advisors</Link>
-            <Link className="font-bold" to="/selectGraduates">Graduates</Link>
-            <Link className="font-bold" to="/create">Create new post</Link>
-            <a className="font-bold" onClick={logout}>Logout</a>
+            <Link className="font-bold" to="/advisors">
+              Advisors
+            </Link>
+            <Link className="font-bold" to="/selectGraduates">
+              Graduates
+            </Link>
+            <Link className="font-bold" to="/create">
+              Create new post
+            </Link>
+            <Link className="font-bold" to="/introduce">
+              Start University Quiz
+            </Link>
+            <a className="font-bold" onClick={logout}>
+              Logout
+            </a>
           </>
         )}
         {username && (userInfo?.role === 'Graduate' || userInfo?.role === 'Advisor') && (

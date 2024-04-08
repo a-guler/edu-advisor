@@ -1,11 +1,17 @@
-import React from "react";
+import { useContext } from "react";
 import { useNavigate } from "react-router-dom";
+import { userContext } from "../../UserContext";
 
 function Introduce() {
   const navigate = useNavigate();
+  const { userInfo } = useContext(userContext);
 
   const startQuiz = () => {
-    navigate("/quiz");
+    if (userInfo?.username) {
+      navigate("/quiz");
+    } else {
+      navigate("/register");
+    }
   };
   return (
     <div className="w-full flex justify-center mt-[100px]">

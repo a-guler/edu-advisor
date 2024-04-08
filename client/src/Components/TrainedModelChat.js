@@ -6,7 +6,6 @@ import {useLocation} from 'react-router-dom';
 import { userContext } from "../UserContext";
 import axios from "axios";
 import Typing from "./ChattingComponents/Typing";
-import { unstable_batchedUpdates } from 'react-dom';
 
 export default function TrainedModelChat(){
 

@@ -9,6 +9,7 @@ import { UserContextProvider } from "./UserContext";
 import CreatePost from "./Components/CreatePost";
 import PostPage from "./Components/PostPage";
 import Introduce from "./Pages/Introduce/Introduce";
+import Results from "./Components/Results/Results";
 import Quiz from "./Pages/Quiz/Quiz";
 import Advisors from "./Components/Advisors";
 import AdvisorChat from "./Components/AdvisorChat";
@@ -41,10 +42,10 @@ function App() {
             <Route path="/trainedModel" element={<TrainedModelChat/>} />
             <Route path="/userMessageList" element={<UserMessageList/>} />
             <Route path="/userChat" element={<UserChat/>} />
+            <Route path="/results" element={<Results />} />
           </Route>
         </Routes>
       </MessageContextProvider>
-      
     </UserContextProvider>
   );
 }
