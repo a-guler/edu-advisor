@@ -4,7 +4,6 @@ from fastapi.middleware.cors import CORSMiddleware
 from app.routers import secure, public
 from app.auth import get_user
 
-
 app = FastAPI()
 origins = ["*"]
 
