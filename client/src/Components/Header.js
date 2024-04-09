@@ -91,27 +91,29 @@ function Header() {
       {username &&
         (userInfo?.role === "Graduate" || userInfo?.role === "Advisor") && (
           <>
-            <Link className="font-bold" to="/userMessageList">
-              Messages
-            </Link>
-            <div className="p-3 bg-red-600 rounded-xl hover:bg-red-400 hover:text-white cursor-pointer flex gap-1">
-              <a className="font-bold" onClick={logout}>
-                Logout
-              </a>
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                fill="none"
-                viewBox="0 0 24 24"
-                strokeWidth={1.5}
-                stroke="currentColor"
-                className="w-6 h-6"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  d="m5.25 4.5 7.5 7.5-7.5 7.5m6-15 7.5 7.5-7.5 7.5"
-                />
-              </svg>
+            <div className="flex items-center justify-center gap-7">
+              <Link className="font-bold" to="/userMessageList">
+                Messages
+              </Link>
+              <div className="p-3 bg-red-600 rounded-xl hover:bg-red-400 hover:text-white cursor-pointer flex gap-1">
+                <a className="font-bold" onClick={logout}>
+                  Logout
+                </a>
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  strokeWidth={1.5}
+                  stroke="currentColor"
+                  className="w-6 h-6"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    d="m5.25 4.5 7.5 7.5-7.5 7.5m6-15 7.5 7.5-7.5 7.5"
+                  />
+                </svg>
+              </div>
             </div>
           </>
         )}

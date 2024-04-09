@@ -19,7 +19,7 @@ export default function GraduateStudents() {
   return (
     <div className="p-2 ">
       <div className="bg-white rounded p-3 min-h-[200px]">
-        <h2 className="text-black mb-3 ml-3 flex items-center justify-center mb-[50px]">
+        <h2 className="text-black ml-3 flex items-center justify-center mb-[50px]">
           {Univercities[schoolId]}
         </h2>
         {graduateList.map((graduate) => {
