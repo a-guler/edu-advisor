@@ -1,0 +1,3608 @@
+[
+    {
+        "name": "Acil Yardım ve Afet Yönetimi",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/acil-yardim-ve-afet-yonetimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Adli Bilimler",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/adli-bilimler-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Adli Bilişim Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/adli-bilisim-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Ağaç İşleri Endüstri Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/agac-isleri-endustri-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Aile ve Tüketici Bilimleri",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/aile-ve-tuketici-bilimleri-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Aktüerya Bilimleri",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/aktuerya-bilimleri-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Alman Dili ve Edebiyatı",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/alman-dili-ve-edebiyati-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Almanca Mütercim ve Tercümanlık",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/almanca-mutercim-ve-tercumanlik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Almanca Öğretmenliği",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/almanca-ogretmenligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Amerikan Kültürü ve Edebiyatı",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/amerikan-kulturu-ve-edebiyati-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Antrenörlük Eğitimi",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/antrenorluk-egitimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Antropoloji",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/antropoloji-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Arap Dili ve Edebiyatı",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/arap-dili-ve-edebiyati-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Arapça Mütercim ve Tercümanlık",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/arapca-mutercim-ve-tercumanlik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Arapça Öğretmenliği",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/arapca-ogretmenligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Arkeoloji",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/arkeoloji-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Arkeoloji ve Sanat Tarihi",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/arkeoloji-ve-sanat-tarihi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Arnavut Dili ve Edebiyatı",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/arnavut-dili-ve-edebiyati-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Astronomi ve Uzay Bilimleri",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/astronomi-ve-uzay-bilimleri-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Ayakkabı Tasarımı ve Üretimi",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/ayakkabi-tasarimi-ve-uretimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Azerbaycan Türkçesi ve Edebiyatı",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/azerbaycan-turkcesi-ve-edebiyati-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Bahçe Bitkileri",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/bahce-bitkileri-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Balıkçılık Teknolojisi Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/balikcilik-teknolojisi-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Bankacılık",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/bankacilik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Bankacılık ve Finans",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/bankacilik-ve-finans-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Bankacılık ve Sigortacılık",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/bankacilik-ve-sigortacilik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Basım Teknolojileri",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/basim-teknolojileri-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Basın ve Yayın",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/basin-ve-yayin-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Batı Dilleri",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/bati-dilleri-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Beden Eğitimi ve Spor Öğretmenliği",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/beden-egitimi-ve-spor-ogretmenligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Beslenme ve Diyetetik",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/beslenme-ve-diyetetik-2024-basari-siralamasi-ve-taban-puanlari/",
+        "l": 4
+    },
+    {
+        "name": "Bilgi Güvenliği Teknolojisi",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/bilgi-guvenligi-teknolojisi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Bilgi ve Belge Yönetimi",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/bilgi-ve-belge-yonetimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Bilgisayar Bilimleri",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/bilgisayar-bilimleri-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Bilgisayar Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/bilgisayar-muhendisligi-2024-basari-siralamasi-ve-taban-puanlari/",
+        "l": 4
+    },
+    {
+        "name": "Bilgisayar Teknolojisi ve Bilişim Sistemleri",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/bilgisayar-teknolojisi-ve-bilisim-sistemleri-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Bilgisayar ve Öğretim Teknolojileri Öğretmenliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/bilgisayar-ve-ogretim-teknolojileri-ogretmenligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Bilim Tarihi",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/bilim-tarihi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Bilişim Sistemleri Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/bilisim-sistemleri-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Bilişim Sistemleri ve Teknolojileri",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/bilisim-sistemleri-ve-teknolojileri-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Bitki Koruma",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/bitki-koruma-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Bitkisel Üretim ve Teknolojileri",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/bitkisel-uretim-ve-teknolojileri-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Biyokimya",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/biyokimya-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Biyoloji Öğretmenliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/biyoloji-ogretmenligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Biyoloji",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/biyoloji-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Biyomedikal Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/biyomedikal-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Biyomühendislik",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/biyomuhendislik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Biyosistem Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/biyosistem-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Biyoteknoloji",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/biyoteknoloji-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Boşnak Dili ve Edebiyatı",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/bosnak-dili-ve-edebiyati-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Bulgar Dili ve Edebiyatı",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/bulgar-dili-ve-edebiyati-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Bulgarca Mütercim ve Tercümanlık",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/bulgarca-mutercim-ve-tercumanlik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Cevher Hazırlama Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/cevher-hazirlama-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Coğrafya Öğretmenliği",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/cografya-ogretmenligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Coğrafya",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/cografya-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Çağdaş Türk Lehçeleri ve Edebiyatları",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/cagdas-turk-lehceleri-ve-edebiyatlari-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Çağdaş Yunan Dili ve Edebiyatı",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/cagdas-yunan-dili-ve-edebiyati-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/calisma-ekonomisi-ve-endustri-iliskileri-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Çerkez Dili ve Edebiyatı",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/cerkez-dili-ve-kulturu-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Çeviribilim",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/ceviribilimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Çevre Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/cevre-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Çin Dili ve Edebiyatı",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/cin-dili-ve-edebiyati-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Çince Mütercim ve Tercümanlık",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/cince-mutercim-ve-tercumanlik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Çizgi Film ve Animasyon",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/cizgi-film-ve-animasyon-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Çocuk Gelişimi",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/cocuk-gelisimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Deniz Ulaştırma İşletme Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/deniz-ulastirma-isletme-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Denizcilik İşletmeleri Yönetimi",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/denizcilik-isletmeleri-yonetimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Deri Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/deri-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Dijital Oyun Tasarımı",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/dijital-oyun-tasarimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Dil ve Konuşma Terapisi",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/dil-ve-konusma-terapisi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Dilbilimi",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/dilbilimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Diş Hekimliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/dis-hekimligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Doğu Dilleri",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/dogu-dilleri-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Ebelik",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/ebelik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Eczacılık",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/eczacilik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Egzersiz ve Spor Bilimleri",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/egzersiz-ve-spor-bilimleri-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Ekonometri",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/ekonometri-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Ekonomi",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/ekonomi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Ekonomi ve Finans",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/ekonomi-ve-finans-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "El Sanatları",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/el-sanatlari-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Elektrik Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/elektrik-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Elektrik-Elektronik Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/elektrik-elektronik-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Elektronik Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/elektronik-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Elektronik Ticaret Ve Yönetimi",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/elektronik-ticaret-ve-yonetimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Elektronik ve Haberleşme Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/elektronik-ve-haberlesme-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Emlak Ve Emlak Yönetimi",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/emlak-ve-emlak-yonetimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Endüstri Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/endustri-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Endüstriyel Tasarım Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/endustriyel-tasarim-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Endüstriyel Tasarım",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/endustriyel-tasarim-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Enerji Bilimi ve Teknolojileri",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/enerji-bilimi-ve-teknolojileri-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Enerji Sistemleri Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/enerji-sistemleri-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Enerji Yönetimi",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/enerji-yonetimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Ergoterapi",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/ergoterapi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Ermeni Dili ve Kültürü",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/ermeni-dili-ve-kulturu-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Eski Yunan Dili ve Edebiyatı",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/eski-yunan-dili-ve-edebiyati-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Fars Dili ve Edebiyatı",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/fars-dili-ve-edebiyati-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Farsça Mütercim ve Tercümanlık",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/farsca-mutercim-ve-tercumanlik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Felsefe Grubu Öğretmenliği",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/felsefe-grubu-ogretmenligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Felsefe",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/felsefe-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Fen Bilgisi Öğretmenliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/fen-bilgisi-ogretmenligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Film Tasarım ve Yönetmenliği",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/film-tasarimi-ve-yonetmenligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Film Tasarımı ve Yazarlığı",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/film-tasarimi-ve-yazarligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Film Tasarımı ve Yönetimi",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/film-tasarimi-ve-yonetimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Finans ve Bankacılık",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/finans-ve-bankacilik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Fizik Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/fizik-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Fizik Öğretmenliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/fizik-ogretmenligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Fizik",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/fizik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Fizyoterapi ve Rehabilitasyon",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/fizyoterapi-ve-rehabilitasyon-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Fotoğraf",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/fotograf-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Fotoğraf ve Video",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/fotograf-ve-video-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Fotonik",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/fotonik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Fransız Dili ve Edebiyatı",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/fransiz-dili-ve-edebiyati-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Fransızca Mütercim ve Tercümanlık",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/fransizca-mutercim-ve-tercumanlik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Fransızca Öğretmenliği",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/fransizca-ogretmenligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Gastronomi ve Mutfak Sanatları",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/gastronomi-ve-mutfak-sanatlari-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Gayrimenkul Geliştirme ve Yönetimi",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/gayrimenkul-gelistirme-ve-yonetimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Gazetecilik",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/gazetecilik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Geleneksel Türk Sanatları",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/geleneksel-turk-sanatlari-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Gemi İnşaatı ve Gemi Makineleri Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/gemi-insaati-ve-gemi-makineleri-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Gemi Makineleri İşletme Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/gemi-makineleri-isletme-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Gemi ve Deniz Teknolojisi Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/gemi-ve-deniz-teknolojisi-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Gemi ve Yat Tasarımı",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/gemi-ve-yat-tasarimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Genetik ve Biyomühendislik",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/genetik-ve-biyomuhendislik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Genetik ve Yaşam Bilimleri Programları",
+        "type": "SAY",
+        "href": "UNKNOWN",
+        "l": 4
+    },
+    {
+        "name": "Geomatik Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/geomatik-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Gerontoloji",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/gerontoloji-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Gıda Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/gida-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Gıda Teknolojisi",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/gida-teknolojisi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Girişimcilik",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/girisimcilik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Görsel İletişim Tasarımı",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/gorsel-iletisim-tasarimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Görsel Sanatlar",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/gorsel-sanatlar-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Görsel Sanatlar ve İletişim",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/gorsel-sanatlar-ve-iletisim-tasarimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Grafik Sanatlar",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/grafik-sanatlar-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Grafik",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/grafik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Grafik Tasarımı",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/grafik-tasarimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Gümrük İşletme",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/gumruk-isletme-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Gürcü Dili ve Edebiyatı",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/gurcu-dili-ve-edebiyati-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Halkbilim",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/halkbilimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Halkla İlişkiler ve Reklamcılık",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/halkla-iliskiler-ve-reklamcilik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Halkla İlişkiler ve Tanıtım",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/halkla-iliskiler-ve-tanitim-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Harita Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/harita-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Havacılık Elektrik ve Elektroniği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/havacilik-elektrik-ve-elektronigi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Havacılık ve Uzay Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/havacilik-ve-uzay-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Havacılık Yönetimi",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/havacilik-yonetimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Hayvansal Üretim ve Teknolojileri",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/hayvansal-uretim-ve-teknolojileri-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Hemşirelik",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/hemsirelik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Hidrojeoloji Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/hidrojeoloji-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Hindoloji",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/hindoloji-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Hititoloji",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/hititoloji-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Hukuk",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/hukuk-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Hungaroloji",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/hungaroloji-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "İbrani Dili ve Kültürü",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/ibrani-dili-ve-kulturu-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "İç Mimarlık",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/ic-mimarlik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "İç Mimarlık ve Çevre Tasarımı",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/ic-mimarlik-ve-cevre-tasarimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "İktisadi ve İdari Bilimler Programları",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/iktisadi-ve-idari-bilimler-programlari-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "İktisat",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/iktisat-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "İlahiyat",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/ilahiyat-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "İletişim Bilimleri",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/iletisim-bilimleri-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "İletişim Fakültesi",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/iletisim-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "İletişim Sanatları",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/iletisim-sanatlari-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "İletişim Tasarımı ve Yönetimi",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/iletisim-tasarimi-ve-yonetimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "İletişim ve Tasarım",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/iletisim-ve-tasarimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "İlköğretim Matematik Öğretmenliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/ilkogretim-matematik-ogretmenligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "İmalat Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/imalat-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "İngiliz Dil Bilimi",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/ingiliz-dilbilimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "İngiliz Dili ve Edebiyatı",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/ingiliz-dili-ve-edebiyati-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "İngiliz ve Rus Dilleri ve Edebiyatları",
+        "type": "DİL",
+        "href": "UNKNOWN",
+        "l": 4
+    },
+    {
+        "name": "İngilizce Mütercim ve Tercümanlık",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/ingilizce-mutercim-ve-tercumanlik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "İngilizce Öğretmenliği",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/ingilizce-ogretmenligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "İngilizce, Fransızca Mütercim ve Tercümanlık",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/ingilizce-fransizca-mutercim-ve-tercumanlik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "İnsan Kaynakları Yönetimi",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/insan-kaynaklari-yonetimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "İnşaat Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/insaat-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "İslam Bilimleri",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/islam-bilimleri-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "İslam İktisadı ve Finans",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/islam-iktisadi-ve-finans-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "İslami İlimler",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/islami-ilimler-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "İspanyol Dili ve Edebiyatı",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/ispanyol-dili-ve-edebiyati-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "İstatistik",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/istatistik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "İstatistik ve Bilgisayar Bilimleri",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/istatistik-ve-bilgisayar-bilimleri-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "İş Sağlığı ve Güvenliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/is-sagligi-ve-guvenligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "İşletme Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/isletme-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "İşletme",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/isletme-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "İtalyan Dili ve Edebiyatı",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/italyan-dili-ve-edebiyati-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Japon Dili ve Edebiyatı",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/japon-dili-ve-edebiyati-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Japonca Mütercim ve Tercümanlık",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/japonca-mutercim-ve-tercumanlik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Japonca Öğretmenliği",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/japonca-ogretmenligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Jeofizik Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/jeofizik-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Jeoloji Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/jeoloji-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Kamu Yönetimi",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/kamu-yonetimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Kanatlı Hayvan Yetiştiriciliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/kanatli-hayvan-yetistiriciligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Karşılaştırmalı Edebiyat",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/karsilastirmali-edebiyat-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Kazak Dili ve Edebiyatı",
+        "type": "SÖZ",
+        "href": "UNKNOWN",
+        "l": 4
+    },
+    {
+        "name": "Kentsel Tasarım ve Peyzaj Mimarlığı",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/kentsel-tasarim-ve-peyzaj-mimarligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Kimya Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/kimya-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Kimya Öğretmenliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/kimya-ogretmenligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Kimya",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/kimya-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Kimya-Biyoloji Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/kimya-biyoloji-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Klasik Arkeoloji",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/klasik-arkeoloji-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Kontrol ve Otomasyon Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/kontrol-ve-otomasyon-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Kore Dili ve Edebiyatı",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/kore-dili-ve-edebiyati-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Kurgu, Ses ve Görüntü Yönetimi",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/kurgu-ses-ve-goruntu-yonetimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Kuyumculuk ve Mücevher Tasarımı",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/kuyumculuk-ve-mucevher-tasarimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Kültür Varlıklarını Koruma ve Onarım",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/kultur-varliklarini-koruma-ve-onarim-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Kültür ve İletişim Bilimleri",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/kultur-ve-iletisim-bilimleri-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Küresel Siyaset ve Uluslararası İlişkiler",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/kuresel-siyaset-ve-uluslararasi-iliskiler-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Kürt Dili ve Edebiyatı",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/kurt-dili-ve-edebiyati-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Latin Dili ve Edebiyatı",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/latin-dili-ve-edebiyati-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Leh Dili ve Edebiyatı",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/leh-dili-ve-edebiyati-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Lojistik Yönetimi",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/lojistik-yonetimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Maden Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/maden-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Makine Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/makine-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Maliye",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/maliye-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Malzeme Bilimi ve Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/malzeme-bilimi-ve-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Malzeme Bilimi ve Nanoteknoloji Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/malzeme-bilimi-ve-nanoteknoloji-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Malzeme Bilimi ve Teknolojileri",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/malzeme-bilimi-ve-teknolojileri-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Matematik Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/matematik-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Matematik Öğretmenliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/matematik-ogretmenligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Matematik",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/matematik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Matematik ve Bilgisayar Bilimleri",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/matematik-ve-bilgisayar-bilimleri-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Medya ve Görsel Sanatlar",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/medya-ve-gorsel-sanatlar-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Medya ve İletişim",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/medya-ve-iletisim-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Mekatronik Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/mekatronik-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Metalurji ve Malzeme Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/metalurji-ve-malzeme-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Meteoroloji Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/meteoroloji-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Mimarlık",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/mimarlik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Moda Tasarımı",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/moda-tasarimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Moleküler Biyoloji ve Genetik",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/molekuler-biyoloji-ve-genetik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Moleküler Biyoteknoloji",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/molekuler-biyoteknoloji-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Muhasebe ve Finans Yönetimi",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/muhasebe-ve-finans-yonetimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Mühendislik Programları",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/muhendislik-programlari-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Mühendislik ve Doğa Bilimleri Programları",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/muhendislik-ve-doga-bilimleri-programlar-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Mütercim-Tercümanlık",
+        "type": "DİL",
+        "href": "UNKNOWN",
+        "l": 4
+    },
+    {
+        "name": "Müzecilik",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/muzecilik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Nanobilim ve Nanoteknoloji",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/nanobilim-ve-nanoteknoloji-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Nanoteknoloji Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/nanoteknoloji-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Nükleer Enerji Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/nukleer-enerji-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Odyoloji",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/odyoloji-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Okul Öncesi Öğretmenliği",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/okul-oncesi-ogretmenligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Optik ve Akustik Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/optik-ve-akustik-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Organik Tarım İşletmeciliği",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/organik-tarim-isletmeciligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Orman Endüstrisi Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/orman-endustrisi-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Orman Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/orman-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Ortez ve Protez",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/ortez-ve-protez-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Otel Yöneticiliği",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/otel-yoneticiligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Otomotiv Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/otomotiv-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Özel Eğitim Öğretmenliği",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/ozel-egitim-ogretmenligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Pazarlama",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/pazarlama-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Perfüzyon",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/perfuzyon-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Petrol ve Doğalgaz Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/petrol-ve-dogalgaz-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Peyzaj Mimarlığı",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/peyzaj-mimarligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Pilotaj",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/pilotaj-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Polimer Malzeme Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/polimer-malzeme-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Politika ve Ekonomi",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/politika-ve-ekonomi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Protohistorya ve Ön Asya Arkeolojisi",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/protohistorya-ve-on-asya-arkeolojisi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Psikoloji",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/psikoloji-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Psikolojik Danışmanlık ve Rehberlik Öğretmenliği",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/psikolojik-danismanlik-ve-rehberlik-ogretmenligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Radyo, Televizyon ve Sinema",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/radyo-televizyon-ve-sinema-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Raylı Sistemler Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/rayli-sistemler-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Rehberlik ve Psikolojik Danışmanlık",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/pdr-rehberlik-ve-psikolojik-danismanlik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Reklam Tasarımı ve İletişimi",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/reklam-tasarimi-ve-iletisimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Reklamcılık",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/reklamcilik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Rekreasyon",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/rekreasyon-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Rekreasyon Yönetimi",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/rekreasyon-yonetimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Rus Dili ve Edebiyatı Öğretmenliği",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/rus-dili-ve-edebiyati-ogretmenligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Rus Dili ve Edebiyatı",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/rus-dili-ve-edebiyati-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Rus ve İngiliz Dilleri ve Edebiyatları",
+        "type": "DİL",
+        "href": "UNKNOWN",
+        "l": 4
+    },
+    {
+        "name": "Rusça Mütercim ve Tercümanlık",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/rusca-mutercim-ve-tercumanlik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Sağlık Yönetimi",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/saglik-yonetimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Sanat Tarihi",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/sanat-tarihi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Sanat ve Kültür Yönetimi",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/sanat-ve-kultur-yonetimi-2024-taban-puanlari-ve-basari-siralamasi-2/",
+        "l": 4
+    },
+    {
+        "name": "Sanat ve Sosyal Bilimler Programları",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/sanat-ve-sosyal-bilimler-programlari-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Sermaye Piyasası",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/sermaye-piyasasi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Seyahat İşletmeciliği",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/seyahat-isletmeciligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Seyahat İşletmeciliği ve Turizm Rehberliği",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/seyahat-isletmeciligi-ve-turizm-rehberligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Sınıf Öğretmenliği",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/sinif-ogretmenligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Sigortacılık",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/sigortacilik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Sigortacılık ve Aktüerya Bilimleri",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/sigortacilik-ve-aktuerya-bilimleri-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Sigortacılık ve Risk Yönetimi",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/sigortacilik-ve-risk-yonetimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Sigortacılık ve Sosyal Güvenlik",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/sigortacilik-ve-sosyal-guvenlik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Sinema ve Dijital Medya",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/sinema-ve-dijital-medya-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Sinema ve Televizyon",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/sinema-ve-televizyon-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Sinoloji",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/sinoloji-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Siyasal Bilimler",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/siyasal-bilimler-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Siyaset Bilimi",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/siyaset-bilimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Siyaset Bilimi ve Kamu Yönetimi",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/siyaset-bilimi-ve-kamu-yonetimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Siyaset Bilimi ve Uluslararası İlişkiler",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/siyaset-bilimi-ve-uluslararasi-iliskiler-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Sosyal Bilgiler Öğretmenliği",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/sosyal-bilgiler-ogretmenligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Sosyal Hizmet",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/sosyal-hizmet-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Sosyoloji",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/sosyoloji-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Spor Yöneticiliği",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/spor-yoneticiligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Su Bilimleri ve Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/su-bilimleri-ve-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Su Ürünleri Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/su-urunleri-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Sümeroloji",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/sumeroloji-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Süryani Dili ve Edebiyatı",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/suryani-dili-ve-edebiyati-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Süt Teknolojisi",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/sut-teknolojisi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Şehir ve Bölge Planlama",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/sehir-ve-bolge-planlama-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Takı Tasarımı",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/taki-tasarimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Takı Tasarımı Ve İmalatı",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/taki-tasarimi-ve-imalati-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Tapu Kadastro",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/tapu-kadastro-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Tarım Ekonomisi",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/tarim-ekonomisi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Tarım Makineleri ve Teknolojileri Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/tarim-makineleri-ve-teknolojileri-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Tarım Ticareti ve İşletmeciliği",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/tarim-ticareti-ve-isletmeciligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Tarımsal Biyoteknoloji",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/tarimsal-biyoteknoloji-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Tarımsal Genetik Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/tarimsal-genetik-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Tarımsal Yapılar ve Sulama",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/tarimsal-yapilar-ve-sulama-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Tarih Öğretmenliği",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/tarih-ogretmenligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Tarih Öncesi Arkeolojisi",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/tarih-oncesi-arkeolojisi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Tarih",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/tarih-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Tarla Bitkileri",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/tarla-bitkileri-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Teknoloji ve Bilgi Yönetimi",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/teknoloji-ve-bilgi-yonetimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Tekstil Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/tekstil-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Tekstil Tasarımı",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/tekstil-tasarimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Tekstil ve Moda Tasarımı",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/tekstil-ve-moda-tasarimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Televizyon Haberciliği ve Programcılığı",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/televizyon-haberciligi-ve-programciligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Tıp Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/tip-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Tıp",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/tip-fakultesi-2024-basari-siralama-ve-taban-puanlari/",
+        "l": 4
+    },
+    {
+        "name": "Tiyatro Eleştirmenliği ve Dramaturji",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/tiyatro-elestirmenligi-ve-dramaturji-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Tohum Bilimi ve Teknolojisi",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/tohum-bilimi-ve-teknolojisi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Toprak Bilimi ve Bitki Besleme",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/toprak-bilimi-ve-bitki-besleme-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Turizm İşletmeciliği",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/turizm-isletmeciligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Turizm Rehberliği",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/turizm-rehberligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Turizm ve Otel İşletmeciliği",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/turizm-ve-otel-isletmeciligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Türk Dili ve Edebiyatı Öğretmenliği",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/turk-dili-ve-edebiyati-ogretmenligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Türk Dili ve Edebiyatı",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/turk-dili-ve-edebiyati-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Türk Halkbilimi",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/turk-halkbilimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Türk İslam Arkeolojisi",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/turk-islam-arkeolojisi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Türkçe Öğretmenliği",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/turkce-ogretmenligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Türkoloji",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/turkoloji-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Tütün Eksperliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/tutun-eksperligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Uçak Bakım ve Onarım",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/ucak-bakim-ve-onarim-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Uçak Elektrik ve Elektroniği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/ucak-elektrik-ve-elektronigi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Uçak Gövde ve Motor Bakımı",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/ucak-govde-ve-motor-bakimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Uçak Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/ucak-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Ukrayna Dili ve Edebiyatı",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/ukrayna-dili-ve-edebiyati-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Uluslararası Ekonomi",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/uluslararasi-ekonomi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Uluslararası Finans",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/uluslararasi-finans-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Uluslararası Finans ve Bankacılık",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/uluslararasi-finans-ve-bankacilik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Uluslararası Girişimcilik",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/uluslararasi-girisimcilik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Uluslararası İlişkiler",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/uluslararasi-iliskiler-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Uluslararası İşletme Yönetimi",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/uluslararasi-isletme-yonetimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Uluslararası Tıp",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/uluslararasi-tip-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Uluslararası Ticaret",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/uluslararasi-ticaret-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Uluslararası Ticaret ve Finans",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/uluslararasi-ticaret-ve-finans-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Uluslararası Ticaret ve Finansman",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/uluslararasi-ticaret-ve-finansman-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Uluslararası Ticaret ve İşletmecilik",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/uluslararasi-ticaret-ve-isletmecilik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Uluslararası Ticaret ve Lojistik",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/uluslararasi-ticaret-ve-lojistik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Uluslararası Ulaştırma Sistemleri",
+        "type": "EA",
+        "href": "UNKNOWN",
+        "l": 4
+    },
+    {
+        "name": "Urdu Dili ve Edebiyatı",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/urdu-dili-ve-edebiyati-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Uzay Bilimleri ve Teknolojileri",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/uzay-bilimleri-ve-teknolojileri-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Uzay Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/uzay-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Uzay ve Uydu Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/uzay-ve-uydu-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Veteriner",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/veteriner-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Yaban Hayatı Ekolojisi ve Yönetimi",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/yaban-hayati-ekolojisi-ve-yonetimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Yapay Zeka Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/yapay-zeka-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Yapay Zeka ve Veri Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/yapay-zeka-ve-veri-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Yazılım Geliştirme",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/yazilim-gelistirme-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Yazılım Mühendisliği",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/yazilim-muhendisligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Yeni Medya",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/yeni-medya-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Yeni Medya ve İletişim",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/yeni-medya-ve-iletisim-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Yerel Yönetimler",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/yerel-yonetimler-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Yiyecek ve İçecek İşletmeciliği",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/yiyecek-ve-icecek-isletmeciligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Yönetim Bilimleri Programları",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/yonetim-bilimleri-programlari-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Yönetim Bilişim Sistemleri",
+        "type": "EA",
+        "href": "https://www.basarisiralamalari.com/yonetim-bilisim-sistemleri-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Yunan Dili ve Edebiyatı",
+        "type": "DİL",
+        "href": "https://www.basarisiralamalari.com/yunan-dili-ve-edebiyati-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Zaza Dili ve Edebiyatı",
+        "type": "SÖZ",
+        "href": "https://www.basarisiralamalari.com/zaza-dili-ve-edebiyati-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Ziraat Mühendisliği Programları",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/ziraat-muhendisligi-programlari-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Zootekni",
+        "type": "SAY",
+        "href": "https://www.basarisiralamalari.com/zootekni-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 4
+    },
+    {
+        "name": "Acil Durum ve Afet Yönetimi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/acil-durum-ve-afet-yonetimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Açık Deniz Sondaj Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/acik-deniz-sondaj-teknolojisi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Açık Deniz Tabanı Uygulamaları Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/acik-deniz-tabani-uygulamalari-teknolojisi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Adalet",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/adalet-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Ağız ve Diş Sağlığı",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/agiz-ve-dis-sagligi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Alternatif Enerji Kaynakları Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/alternatif-enerji-kaynaklari-teknolojisi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Ambalaj Tasarımı",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/ambalaj-tasarimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Ameliyathane Hizmetleri",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/ameliyathane-hizmetleri-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Anestezi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/anestezi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Arıcılık",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/aricilik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Aşçılık",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/ascilik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Atçılık ve Antrenörlüğü",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/atcilik-ve-antrenorlugu-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Atık Yönetimi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/atik-yonetimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Avcılık ve Yaban Hayatı",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/avcilik-ve-yaban-hayati-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Ayakkabı Tasarım ve Üretimi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/ayakkabi-tasarim-ve-uretimi-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Bağcılık",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/bagcilik-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Bağcılık ve Bağ Ürünleri Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/bagcilik-ve-bag-urunleri-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Bahçe Tarımı",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/bahce-tarimi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Bankacılık ve Sigortacılık",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/bankacilik-ve-sigortacilik-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Basım ve Yayım Teknolojileri",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/basim-ve-yayim-teknolojileri-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Bıçakçılık ve El Aletleri Üretim Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/bicakcilik-ve-el-aletleri-uretim-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Bilgi Yönetimi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/bilgi-yonetimi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Bilgisayar Destekli Tasarım ve Animasyon",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/bilgisayar-destekli-tasarim-ve-animasyon-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Bilgisayar Operatörlüğü",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/bilgisayar-operatorlugu-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Bilgisayar Programcılığı",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/bilgisayar-programciligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Bilgisayar Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/bilgisayar-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Bilişim Güvenliği Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/bilisim-guvenligi-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Bitki Koruma",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/bitki-koruma-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Biyokimya",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/biyokimya-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Biyomedikal Cihaz Teknolojisi Bölümü",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/biyomedikal-cihaz-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Boya Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/boya-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Büro Yönetimi ve Yönetici Asistanlığı",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/buro-yonetimi-ve-yonetici-asistanligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Ceza İnfaz ve Güvenlik Hizmetleri",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/ceza-infaz-ve-guvenlik-hizmetleri-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "CNC Programlama ve Operatörlüğü",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/cnc-programlama-ve-operatorlugu-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Coğrafi Bilgi Sistemleri",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/cografi-bilgi-sistemleri-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Çay Tarımı ve İşleme Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/cay-tarimi-ve-isleme-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Çağrı Merkezi Hizmetleri",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/cagri-merkezi-hizmetleri-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Çevre Koruma ve Kontrol",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/cevre-koruma-ve-kontrol-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Çevre Sağlığı",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/cevre-sagligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Çevre Temizliği ve Denetimi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/cevre-temizligi-ve-denetimi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Çim Alan Tesisi ve Yönetimi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/cim-alan-tesisi-ve-yonetimi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Çini Sanatı ve Tasarımı",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/cini-sanati-ve-tasarimi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Çocuk Gelişimi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/cocuk-gelisimi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Çocuk Koruma ve Bakım Hizmetleri",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/cocuk-koruma-ve-bakim-hizmetleri-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Çok Boyutlu Modelleme ve Animasyon",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/cok-boyutlu-modelleme-ve-animasyon-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Deniz Brokerliği",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/deniz-brokerligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Deniz Ulaştırma ve İşletme",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/deniz-ulastirma-ve-isletme-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Deniz ve Liman İşletmeciliği",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/deniz-ve-liman-isletmeciligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Deri Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/deri-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Dezenfeksiyon, Sterilizasyon ve Antisepsi Teknikerliği",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/dezenfeksiyon-sterilizasyon-ve-antisepsi-teknikerligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Dış Ticaret",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/dis-ticaret-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Dijital Fabrika Teknolojileri",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/dijital-fabrika-teknolojileri-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Diş Protez Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/dis-protez-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Diyaliz",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/diyaliz-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Doğal Yapı Taşları Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/dogal-yapi-taslari-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Doğalgaz ve Tesisatı Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/dogalgaz-ve-tesisati-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Döküm",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/dokum-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Eczane Hizmetleri",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/eczane-hizmetleri-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Elektrik",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/elektrik-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/elektrik-enerjisi-uretim-iletim-ve-dagitimi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Elektrikli Cihaz Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/elektrikli-cihaz-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Elektronik Haberleşme Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/elektronik-haberlesme-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Elektronik Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/elektronik-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Elektronörofizyoloji",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/elektronorofizyoloji-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Emlak Yönetimi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/emlak-yonetimi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Endüstri Ürünleri Tasarımı",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/endustri-urunleri-tasarimi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Endüstriyel Cam ve Seramik",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/endustriyel-cam-ve-seramik-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Endüstriyel Hammaddeler İşleme Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/endustriyel-hammaddeler-isleme-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Endüstriyel Kalıpçılık",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/endustriyel-kalipcilik-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Enerji Tesisleri İşletmeciliği",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/enerji-tesisleri-isletmeciligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Engelli Bakımı ve Rehabilitasyon",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/engelli-bakimi-ve-rehabilitasyon-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Engelliler İçin Gölge Öğreticilik",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/engelliler-icin-golge-ogreticilik-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Eser Koruma",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/eser-koruma-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Et ve Ürünleri Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/et-ve-urunleri-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "E-Ticaret ve Pazarlama",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/e-ticaret-ve-pazarlama-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Ev İdaresi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/ev-idaresi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Evde Hasta Bakımı",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/evde-hasta-bakimi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Fındık Eksperliği",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/findik-eksperligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Fidan Yetiştiriciliği",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/fidan-yetistiriciligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Fizyoterapi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/fizyoterapi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Fotoğrafçılık ve Kameramanlık",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/fotografcilik-ve-kameramanlik-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Geleneksel El Sanatları",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/geleneksel-el-sanatlari-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Geleneksel Tekstillerin Korunması ve Restorasyonu",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/geleneksel-tekstillerin-korunmasi-ve-restorasyonu-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Gemi İnşaatı",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/gemi-insaati-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Gemi Makineleri İşletmeciliği",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/gemi-makineleri-isletmeciligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Geoteknik",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/geoteknik-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Gıda Kalite Kontrolü ve Analizi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/gida-kalite-kontrolu-ve-analizi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Gıda Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/gida-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Giyim Üretim Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/giyim-uretim-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Görsel İletişim",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/gorsel-iletisim-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Grafik Tasarımı",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/grafik-tasarimi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Halıcılık ve Kilimcilik",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/halicilik-ve-kilimcilik-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Halkla İlişkiler ve Tanıtım",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/halkla-iliskiler-ve-tanitim-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Harita Kadastro",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/harita-ve-kadastro-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Hasta Bakımı",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/hasta-bakimi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Hava Lojistiği",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/hava-lojistigi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Hibrid ve Elektrikli Taşıtlar Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/hibrid-ve-elektrikli-tasitlar-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Hukuk Büro Yönetimi ve Sekreterliği",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/hukuk-buro-yonetimi-ve-sekreterligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "İç Mekan Tasarımı",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/ic-mekan-tasarimi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "İklimlendirme ve Soğutma Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/iklimlendirme-ve-sogutma-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "İkram Hizmetleri",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/ikram-hizmetleri-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "İlahiyat",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/ilahiyat-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "İlk ve Acil Yardım",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/ilk-ve-acil-yardim-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "İnsan Kaynakları Yönetimi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/insan-kaynaklari-yonetimi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "İnsansız Hava Aracı Teknolojisi ve Operatörlüğü",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/insansiz-hava-araci-teknolojisi-ve-operatorlugu-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "İnşaat Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/insaat-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "İnternet ve Ağ Teknolojileri",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/internet-ve-ag-teknolojileri-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "İslami İlimler",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/islami-ilimler-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "İş Makineleri Operatörlüğü",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/is-makineleri-operatorlugu-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "İş Sağlığı ve Güvenliği",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/is-sagligi-ve-guvenligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "İş ve Uğraşı Terapisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/is-ve-ugrasi-terapisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "İşletme Yönetimi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/isletme-yonetimi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Kaynak Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/kaynak-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Kimya Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/kimya-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Kontrol ve Otomasyon Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/kontrol-ve-otomasyon-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Kooperatifçilik",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/kooperatifcilik-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Kozmetik Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/kozmetik-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Kuyumculuk ve Takı Tasarımı",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/kuyumculuk-ve-taki-tasarimi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Kültürel Miras ve Turizm",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/kulturel-miras-ve-turizm-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Kümes Hayvanları Yetiştiriciliği",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/kumes-hayvanlari-yetistiriciligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Laborant ve Veteriner Sağlık",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/laborant-ve-veteriner-saglik-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Laboratuvar Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/laboratuvar-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Lojistik",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/lojistik-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Madencilik Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/madencilik-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Makine",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/makine-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Makine Resim ve Konstrüksiyonu",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/makine-resim-ve-konstruksiyonu-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Maliye",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/maliye-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Mantarcılık",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/mantarcilik-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Marka İletişimi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/marka-iletisimi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Marine ve Yat İşletmeciliği",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/marina-ve-yat-isletmeciligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Medya ve İletişim",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/medya-ve-iletisim-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Mekatronik",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/mekatronik-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Menkul Kıymetler ve Sermaye Piyasası",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/menkul-kiymetler-ve-sermaye-piyasasi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Mermer Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/mermer-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Metalurji",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/metalurji-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Meyve ve Sebze İşleme Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/meyve-ve-sebze-isleme-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Mimari Dekoratif Sanatlar",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/mimari-dekoratif-sanatlar-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Mimari Restorasyon",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/mimari-restorasyon-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Mobil Teknolojileri",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/mobil-teknolojileri-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Mobilya ve Dekorasyon",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/mobilya-ve-dekorasyon-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Moda Tasarımı",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/moda-tasarimi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Moda Yönetimi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/moda-yonetimi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Muhasebe ve Vergi Uygulamaları",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/muhasebe-ve-vergi-uygulamalari-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Nüfus ve Vatandaşlık",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/nufus-ve-vatandaslik-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Nükleer Teknoloji ve Radyasyon Güvenliği",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/nukleer-teknoloji-ve-radyasyon-guvenligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Nükleer Tıp Teknikleri",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/nukleer-tip-teknikleri-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Odyometri",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/odyometri-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Optisyenlik",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/optisyenlik-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Organik Tarım",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/organik-tarim-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Ormancılık ve Orman Ürünleri",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/ormancilik-ve-orman-urunleri-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Ortopedik Protez ve Ortez",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/ortopedik-protez-ve-ortez-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Otobüs Kaptanlığı",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/otobus-kaptanligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Otomotiv Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/otomotiv-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Otopsi Yardımcılığı",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/otopsi-yardimciligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Özel Güvenlik ve Koruma",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/ozel-guvenlik-ve-koruma-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Pastacılık ve Ekmekçilik",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/pastacilik-ve-ekmekcilik-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Patoloji Laboratuvar Teknikleri",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/patoloji-laboratuvar-teknikleri-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Pazarlama",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/pazarlama-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Otomotiv Gövde ve Yüzey İşlem Teknolojileri",
+        "type": "UNKNOWN",
+        "href": "UNKNOWN",
+        "l": 2
+    },
+    {
+        "name": "Perakende Satış ve Mağaza Yönetimi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/perakende-satis-ve-magaza-yonetimi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Peyzaj ve Süs Bitkileri Yetiştiriciliği",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/peyzaj-ve-sus-bitkileri-yetistiriciligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Podoloji",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/podoloji-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Polimer Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/polimer-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Posta Hizmetleri",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/posta-hizmetleri-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Radyo ve Televizyon Programcılığı",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/radyo-ve-televizyon-programciligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Radyo ve Televizyon Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/radyo-ve-televizyon-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Radyoterapi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/radyoterapi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Rafineri ve Petro-Kimya Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/rafineri-ve-petro-kimya-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Raylı Sistemler Elektrik ve Elektronik",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/rayli-sistemler-elektrik-ve-elektronik-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Raylı Sistemler İşletmeciliği",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/rayli-sistemler-isletmeciligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Raylı Sistemler Makine Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/rayli-sistemler-makine-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Raylı Sistemler Makinistliği",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/rayli-sistemler-makinistligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Raylı Sistemler Yol Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/rayli-sistemler-yol-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Reklamcılık",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/reklamcilik-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Saç Bakımı ve Güzellik Hizmetleri",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/sac-bakimi-ve-guzellik-hizmetleri-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Sağlık Bilgi Sistemleri Teknikerliği",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/saglik-bilgi-sistemleri-teknikerligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Sağlık Kurumları İşletmeciliği",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/saglik-kurumlari-isletmeciligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Sağlık Turizmi İşletmeciliği",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/saglik-turizmi-isletmeciligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Sahne Işık ve Ses Teknolojileri",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/sahne-isik-ve-ses-teknolojileri-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Sahne ve Dekor Tasarımı",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/sahne-ve-dekor-tasarimi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Sanal ve Artırılmış Gerçeklik",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/sanal-ve-artirilmis-gerceklik-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Seracılık",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/seracilik-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Seramik ve Cam Tasarımı",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/seramik-ve-cam-tasarimi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Siber Güvenlik",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/siber-guvenlik-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Siber Güvenlik Analistliği ve Operatörlüğü",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/siber-guvenlik-analistligi-ve-operatorlugu-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Silah Sanayi Teknikerliği",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/silah-sanayi-teknikerligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Sivil Hava Ulaştırma İşletmeciliği",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/sivil-hava-ulastirma-isletmeciligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Sivil Havacılık Kabin Hizmetleri",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/sivil-havacilik-kabin-hizmetleri-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Sivil Savunma ve İtfaiyecilik",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/sivil-savunma-ve-itfaiyecilik-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Sondaj Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/sondaj-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Sosyal Güvenlik",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/sosyal-guvenlik-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Sosyal Hizmetler",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/sosyal-hizmetler-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Sosyal Medya Yöneticiliği",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/sosyal-medya-yoneticiligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Spor Yönetimi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/spor-yonetimi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Su Altı Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/su-alti-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Su Ürünleri İşleme Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/su-urunleri-isleme-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Sulama Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/sulama-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Süt ve Besi Hayvancılığı",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/sut-ve-besi-hayvanciligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Süt ve Ürünleri Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/sut-ve-urunleri-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Tahribatsız Muayene",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/tahribatsiz-muayene-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Tapu ve Kadastro",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/tapu-ve-kadastro-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Tarım Makineleri",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/tarim-makineleri-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Tarım Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/tarim-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Tarımsal İşletmecilik",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/tarimsal-isletmecilik-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Tarla Bitkileri",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/tarla-bitkileri-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Tekstil Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/tekstil-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Tekstil ve Halı Makineleri",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/tekstil-ve-hali-makineleri-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Tıbbi Dokümantasyon ve Sekreterlik",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/tibbi-dokumantasyon-ve-sekreterlik-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Tıbbi Görüntüleme Teknikleri",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/tibbi-goruntuleme-teknikleri-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Tıbbi Laboratuvar Teknikleri",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/tibbi-laboratuvar-teknikleri-2-yillik-2024-taban-puanlari-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Tıbbi Tanıtım ve Pazarlama",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/tibbi-tanitim-ve-pazarlama-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Tıbbi ve Aromatik Bitkiler",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/tibbi-ve-aromatik-bitkiler-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Tohumculuk Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/tohumculuk-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Turist Rehberliği",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/turist-rehberligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Turizm Animasyonu",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/turizm-animasyonu-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Turizm ve Otel İşletmeciliği",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/turizm-ve-otel-isletmeciligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Turizm ve Seyahat Hizmetleri",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/turizm-ve-seyahat-hizmetleri-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Uçak Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/ucak-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Uçuş Harekat Yöneticiliği",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/ucus-harekat-yoneticiligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Ulaştırma ve Trafik Hizmetleri",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/ulastirma-ve-trafik-hizmetleri-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Un ve Unlu Mamuller Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/un-ve-unlu-mamuller-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Uygulamalı İngilizce Çevirmenlik",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/uygulamali-ingilizce-cevirmenlik-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Uygulamalı İspanyolca Çevirmenlik",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/uygulamali-ispanyolca-cevirmenlik-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Üretimde Kalite Kontrol",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/uretimde-kalite-kontrol-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Web Tasarımı ve Kodlama",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/web-tasarimi-ve-kodlama-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Yağ Endüstrisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/yag-endustrisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Yapı Denetimi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/yapi-denetimi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Yapı Ressamlığı",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/yapi-ressamligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Yapı Tesisat Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/yapi-tesisat-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Yapı Yalıtım Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/yapi-yalitim-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Yaşlı Bakımı",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/yasli-bakimi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Yat Kaptanlığı",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/yat-kaptanligi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Yeni Medya ve Gazetecilik",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/yeni-medya-ve-gazetecilik-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Yerel Yönetimler",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/yerel-yonetimler-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    },
+    {
+        "name": "Zeytincilik ve Zeytin İşleme Teknolojisi",
+        "type": "UNKNOWN",
+        "href": "https://www.basarisiralamalari.com/zeytincilik-ve-zeytin-isleme-teknolojisi-2-yillik-2024-taban-puanlari-ve-basari-siralamasi/",
+        "l": 2
+    }
+]
