@@ -28,9 +28,9 @@ async def get_testroute(user: dict = Depends(get_user)):
 
 @router.post("/edu-advisor")
 async def RAGPrompt(item: validation):
-    rag = VectorSearch(item.prompt)
-    completion = GetGPTCompletion(item.prompt, rag, item.recommend, item.history)
+    completion = GetGPTCompletion(item.prompt, item.recommend, item.history)
     return completion
+
 
 
 @router.post("/major-recommend")
