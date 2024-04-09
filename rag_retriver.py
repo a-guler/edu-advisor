@@ -20,19 +20,20 @@ def GetGPTCompletion(prompt, recommendedMajors=None, history=[]):
     DEFAULT_SYSTEM_PROMPT = '''You are a helpful, respectful and honest INTP-T AI Assistant named EDU ADVISOR. You are talking to a human User, who are seeking advice about universities.
     Always answer as helpfully and logically as possible, while being safe. Your answers should not include any harmful, political, religious, unethical, racist, sexist, toxic, dangerous, or illegal content. Please ensure that your responses are socially unbiased and positive in nature. 
     You are using turkish localization, so for numbers use decimal comma instead of decimal point.
-    You also have access to RAG vector database access which has various information about Turkish Universities. It may have information about various universities which can be irrelevant, in this case don't use irrelevant information. If the rag data is irrelevant to the question, you may ignore rag data. But pay attention to private colleges they might have various data which depends on their scholarship information which is referred in the data as "ücretli","%50 indirimli", "%50 burslu","%50 ücretli","burslu". Be careful when giving response, sometime irrelevent Rag content will be there so give response effectively to user based on the prompt.
+    You also have access to RAG vector database access which has various information about Turkish Universities.
+    If you get various informations from rag search, make sure to use all of them regarding to user's question. 
     You can speak fluently in Turkish and English.
     Note: Sometimes the Context is not relevant to Question, so give Answer according to that situation.
     '''
 
     if (recommendedMajors != None and recommendedMajors != []):
         sentences = []
-        for i in range(len(recommendedMajors)):
+        for i in range(min(len(recommendedMajors),5)):
             sentence = 'This person is interested in %s. And this major is under %s category.' % (
                 recommendedMajors[i]["Major"], {recommendedMajors[i]["Major Category"]})
             sentences.append(sentence)
         major_prompt = ".".join(str(element) for element in sentences)
-        recommend_prompt = """The user is interested in the following majors. In the next sentences it will be given that majors whose are the user is interested in, they will be given in the order of most interested to less interested.  """ + major_prompt
+        recommend_prompt = """The user is interested in the following majors. Assist the user about their question based on the major which they are interested. In the next sentences it will be given that majors whose are the user is interested in, they will be given in the order of most interested to less interested.  """ + major_prompt
 
         print(f'Prompt: {recommend_prompt}')
         DEFAULT_SYSTEM_PROMPT = DEFAULT_SYSTEM_PROMPT + recommend_prompt
@@ -74,11 +75,12 @@ def summarizeQuery(history: list, prompt: str):
 
 
 def summarizeRag(RagData, summarizedPrompt, prompt):
-    SYSTEM_PROMPT = '''You also access to RAG vector database access which has various information about Turkish Universities. 
+    SYSTEM_PROMPT = '''You access to RAG vector database access which has various information about Turkish Universities. 
+    It's given to you in format of sentences. Each sentence is a different information about a university or a department.
     And this is the data retrieved from the RAG database by querying the prompt.
-    get rid of unnecessary data while keeping relevant data in regards to user's prompt. 
-    You should pay attention to universities scholarship property, this may be referred in the data as "ücretli","%50 indirimli", "%50 burslu","%50 ücretli","burslu" and other scholarship information. In this case you should give all the information about the university, all the data about the department is necessary 
-    the result must contain all the information about the given university and the department, if various data exists all of them are necessary so final result must contain all of them.
+    Get rid of unnecessary data while keeping relevant data in regards to user's prompt. 
+    You should pay attention to universities scholarship property, this may be referred in the data as "ücretli","%50 indirimli","%50 ücretli","burslu" and other scholarship information. in this don't mix up with the scholarship data of the department with other scholarships, you should keep integrity of the data.
+    the result must contain all the information about the given university and the department, if various data exists all of them are necessary so final result must contain each one individually.
     '''
     prompt = "RAG Data: " + RagData + ", Prompt: " + \
         summarizedPrompt + ", User's question: " + prompt
