@@ -22,6 +22,7 @@ import UserChat from "./Components/UserChat";
 import { MessageContextProvider } from "./MessageContext";
 
 import ResultSelected from "./Components/Results/ResultSelected";
+import NewHome from "./Components/NewHome";
 
 function App() {
   return (
@@ -29,7 +30,7 @@ function App() {
       <MessageContextProvider>
         <Routes>
           <Route path="/" element={<Layout />}>
-            <Route index element={<Home />} />
+            <Route index element={<NewHome />} />
             <Route path="/login" element={<Login />} />
             <Route path="/register" element={<Register />} />
             <Route path="/create" element={<CreatePost />} />
@@ -52,6 +53,7 @@ function App() {
             <Route path="/userChat" element={<UserChat />} />
             <Route path="/results" element={<Results />} />
             <Route path="/result/:id" element={<ResultSelected />} />
+            <Route path="/posts" element={<Home />} />
           </Route>
         </Routes>
       </MessageContextProvider>
