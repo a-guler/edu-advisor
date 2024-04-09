@@ -1,0 +1,1 @@
+Bu uygulama içerisinde internetten veri toplanmıştır. Ve bu toplanan verileri kullanılarak RAG tabanlı model içerisinde kullanmak için veri üretilmiştir. Üniversite bilgileri YÖK internet sayfasından ve basarisiuralamari.com üzerinden alınmıştır. 
