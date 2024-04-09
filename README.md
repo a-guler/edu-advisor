@@ -21,6 +21,7 @@ Türkiyede bulunuan üniversiteler ile ilgili bilgilere çekilerek pinecone üze
 ![RAG Tasarımı](/Pictures/jumpstart-fm-rag.jpg)
 <p>
 Aşağıda görselde ise postman üzerinden çalışma örneği gösterilmektedir.
+
 ![Postman üzerinden alınmış uygulamanın çalışma örneği.](/Pictures/rag-app-example.png)
 
 
@@ -28,6 +29,7 @@ Aşağıda görselde ise postman üzerinden çalışma örneği gösterilmektedi
 Bu uygulama hazırlanmış quiz sorularına göre kullanıcı için en uygun bölümleri belirlemektedir. Bu belirleme işlemi için ilgi alanlaarı, ekonomik refah ve çalışma şartları alanları kullanılaraks belirlenir. Ve tüm girdiler Rastgele Orman Modeli kullanılarak kullanıcıya en uygun olan bölümler belirlenir. 
 <p>
 Aşağıda görselde ise postman üzerinden çalışma örneği gösterilmektedir.
+
 ![Postman üzerinden alınmış uygulamanın çalışma örneği.](/Pictures/Major-recommend-example.png)
 
 
