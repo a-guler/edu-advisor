@@ -12,9 +12,9 @@ function Results() {
     });
   }, []);
   return (
-    <div className="border mt-[100px] p-4 min-h-[450px] max-h-[550px] rounded-xl overflow-x-auto">
-      <div className="flex justify-center items-center mt-[20px] mb-[40px] text-3xl">
-        <h1 className="text-white">Quiz Geçmişiniz</h1>
+    <div className="border mt-[80px] p-4 min-h-[450px] max-h-[850px] rounded-xl overflow-x-auto bg-white">
+      <div className="flex justify-center items-center mt-[20px] mb-[40px] text-3xl border-b-2 pb-4">
+        <h1 className="text-black">Quiz Geçmişiniz</h1>
       </div>
       {quizzes &&
         quizzes

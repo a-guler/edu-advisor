@@ -1,6 +1,6 @@
 body {
   color: #333;
-  background-image: linear-gradient(0deg, #150080 0.03%, #d08642);
+  background-image: linear-gradient(0deg, #705dd3 0.03%, #d48d4b);
 
   /*-webkit-animation: AnimationName 46s ease infinite;
   -moz-animation: AnimationName 46s ease infinite;
@@ -50,7 +50,7 @@ img {
 
 main {
   padding: 10px;
-  max-width: 960px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 

@@ -60,43 +60,50 @@ function CreatePost() {
     return <Navigate to={"/"} />;
   }
   return (
-    <form onSubmit={createNewPost}>
-      <input
-        className="postInput"
-        type="title"
-        placeholder={"Title"}
-        value={title}
-        onChange={(event) => {
-          setTitle(event.target.value);
-        }}
-      />
-      <input
-        className="postInput"
-        type="summary"
-        placeholder={"Summary"}
-        value={summary}
-        onChange={(event) => {
-          setSummary(event.target.value);
-        }}
-      />
-      <input
-        type="file"
-        onChange={(event) => {
-          setFile(event.target.files);
-        }}
-      />
-      <ReactQuill
-        value={content}
-        modules={modules}
-        formats={formats}
-        onChange={(value) => {
-          setContent(value);
-        }}
-      />
-      <div className="buttonHolder">
-        <button>Create Post</button>
+    <div className=" bg-white p-10 min-h-[400px] rounded-xl">
+      <div className="flex items-center justify-center text-4xl mb-[30px]">
+        <h1>Create Post</h1>
       </div>
-    </form>
+      <div className="flex justify-center items-center ">
+        <form onSubmit={createNewPost}>
+          <input
+            className="postInput"
+            type="title"
+            placeholder={"Title"}
+            value={title}
+            onChange={(event) => {
+              setTitle(event.target.value);
+            }}
+          />
+          <input
+            className="postInput"
+            type="summary"
+            placeholder={"Summary"}
+            value={summary}
+            onChange={(event) => {
+              setSummary(event.target.value);
+            }}
+          />
+          <input
+            type="file"
+            onChange={(event) => {
+              setFile(event.target.files);
+            }}
+          />
+          <ReactQuill
+            value={content}
+            modules={modules}
+            formats={formats}
+            onChange={(value) => {
+              setContent(value);
+            }}
+          />
+          <div className="buttonHolder">
+            <button>Create Post</button>
+          </div>
+        </form>
+      </div>
+    </div>
   );
 }
 
