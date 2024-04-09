@@ -51,6 +51,9 @@ function Header() {
             <Link className="font-bold" to="/introduce">
               Start University Quiz
             </Link>
+            <Link className="font-bold" to="/results">
+              Quiz Results
+            </Link>
             <a className="font-bold" onClick={logout}>
               Logout
             </a>

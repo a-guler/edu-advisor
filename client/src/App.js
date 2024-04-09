@@ -21,6 +21,8 @@ import UserMessageList from "./Components/UserMessageList";
 import UserChat from "./Components/UserChat";
 import { MessageContextProvider } from "./MessageContext";
 
+import ResultSelected from "./Components/Results/ResultSelected";
+
 function App() {
   return (
     <UserContextProvider>
@@ -34,15 +36,22 @@ function App() {
             <Route path="/post/:id" element={<PostPage />} />
             <Route path="/introduce" element={<Introduce />} />
             <Route path="/quiz" element={<Quiz />} />
-            <Route path="/advisors" element={<Advisors/>} />
+            <Route path="/advisors" element={<Advisors />} />
             <Route path="/advisors/:id" element={<AdvisorChat />} />
-            <Route path="/selectGraduates" element={<SelectGraduateFromSchool/>} />
-            <Route path="/graduates/:schoolId" element={<GraduateStudents/>} />
-            <Route path="/graduates/:schoolId/:id" element={<GraduateStudentChat />} />
-            <Route path="/trainedModel" element={<TrainedModelChat/>} />
-            <Route path="/userMessageList" element={<UserMessageList/>} />
-            <Route path="/userChat" element={<UserChat/>} />
+            <Route
+              path="/selectGraduates"
+              element={<SelectGraduateFromSchool />}
+            />
+            <Route path="/graduates/:schoolId" element={<GraduateStudents />} />
+            <Route
+              path="/graduates/:schoolId/:id"
+              element={<GraduateStudentChat />}
+            />
+            <Route path="/trainedModel" element={<TrainedModelChat />} />
+            <Route path="/userMessageList" element={<UserMessageList />} />
+            <Route path="/userChat" element={<UserChat />} />
             <Route path="/results" element={<Results />} />
+            <Route path="/result/:id" element={<ResultSelected />} />
           </Route>
         </Routes>
       </MessageContextProvider>

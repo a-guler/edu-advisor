@@ -12,11 +12,14 @@ function Results() {
     });
   }, []);
   return (
-    <div>
+    <div className="border mt-[100px] p-4 min-h-[450px] max-h-[550px] rounded-xl overflow-x-auto">
+      <div className="flex justify-center items-center mt-[20px] mb-[40px] text-3xl">
+        <h1 className="text-white">Quiz Geçmişiniz</h1>
+      </div>
       {quizzes &&
         quizzes
           .sort((a, b) => a.createdAt < b.createdAt)
-          .map((quiz) => <div>result</div>)}
+          .map((quiz) => <Quiz key={quiz.id} {...quiz} />)}
     </div>
   );
 }

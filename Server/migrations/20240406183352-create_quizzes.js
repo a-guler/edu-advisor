@@ -14,6 +14,9 @@ module.exports = {
       quizResults: {
         type: DataTypes.JSON,
       },
+      quizName: {
+        type: DataTypes.STRING,
+      },
 
       userId: {
         type: DataTypes.INTEGER,
